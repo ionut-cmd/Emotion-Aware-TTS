@@ -1,7 +1,7 @@
 dataset: "Dataverse"
 
 path:
-  corpus_path: "/home/ming/Data/Dataverse"
+  corpus_path: "home/ming/Data/Dataverse"
   lexicon_path: "lexicon/librispeech-lexicon.txt"
   raw_path: "./raw_data/Dataverse"
   preprocessed_path: "./preprocessed_data/Dataverse"
