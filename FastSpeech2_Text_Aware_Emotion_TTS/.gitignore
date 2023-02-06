@@ -117,4 +117,4 @@ output/
 *.npy
 TextGrid/
 hifigan/*.pth.tar
-preprocessed_data/Dataverse/TextGrid
+#preprocessed_data/Dataverse/TextGrid
