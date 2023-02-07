@@ -18,7 +18,8 @@ class FastSpeech2(nn.Module):
         self.model_config = model_config
 
         self.encoder = Encoder(model_config)
-        self.variance_adaptor = VarianceAdaptor(preprocess_config, model_config)
+        self.variance_adaptor = VarianceAdaptor(
+            preprocess_config, model_config)
         self.decoder = Decoder(model_config)
         self.mel_linear = nn.Linear(
             model_config["transformer"]["decoder_hidden"],
@@ -40,12 +41,32 @@ class FastSpeech2(nn.Module):
                 model_config["transformer"]["encoder_hidden"],
             )
 
+        self.emotion_emb = None
+        if model_config["multi_emotion"]:
+            with open(
+                os.path.join(
+                    preprocess_config["path"]["preprocessed_path"], "emotions.json"
+                ),
+                "r",
+            ) as f:
+                n_emotion = len(json.load(f))
+            self.emotion_emb = nn.Embedding(
+                n_emotion,
+                model_config["transformer"]["encoder_hidden"],
+            )
+            self.emotion_linear = nn.Sequential(
+                nn.Linear(model_config["transformer"]["encoder_hidden"],
+                          model_config["transformer"]["encoder_hidden"]),
+                nn.ReLU()
+            )
+
     def forward(
         self,
         speakers,
         texts,
         src_lens,
         max_src_len,
+        emotions,
         mels=None,
         mel_lens=None,
         max_mel_len=None,
@@ -67,6 +88,11 @@ class FastSpeech2(nn.Module):
 
         if self.speaker_emb is not None:
             output = output + self.speaker_emb(speakers).unsqueeze(1).expand(
+                -1, max_src_len, -1
+            )
+
+        if self.emotion_emb is not None:
+            output = output + self.emotion_linear(self.emotion_emb(emotions)).unsqueeze(1).expand(
                 -1, max_src_len, -1
             )
 

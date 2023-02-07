@@ -4,6 +4,7 @@ path:
   corpus_path: "home/ming/Data/Dataverse"
   lexicon_path: "lexicon/librispeech-lexicon.txt"
   raw_path: "./raw_data/Dataverse"
+  emo_path: "./raw_data/emotions.txt"
   preprocessed_path: "./preprocessed_data/Dataverse"
 
 preprocessing:
