@@ -138,6 +138,12 @@ if __name__ == "__main__":
         help="speaker ID for multi-speaker synthesis, for single-sentence mode only",
     )
     parser.add_argument(
+        "--emotion_id",
+        type=int,
+        default=0,
+        help="emotion ID for multi-emotion synthesis, for single-sentence mode only",
+    )
+    parser.add_argument(
         "-p",
         "--preprocess_config",
         type=str,
@@ -180,8 +186,10 @@ if __name__ == "__main__":
     preprocess_config = yaml.load(
         open(args.preprocess_config, "r"), Loader=yaml.FullLoader
     )
-    model_config = yaml.load(open(args.model_config, "r"), Loader=yaml.FullLoader)
-    train_config = yaml.load(open(args.train_config, "r"), Loader=yaml.FullLoader)
+    model_config = yaml.load(
+        open(args.model_config, "r"), Loader=yaml.FullLoader)
+    train_config = yaml.load(
+        open(args.train_config, "r"), Loader=yaml.FullLoader)
     configs = (preprocess_config, model_config, train_config)
 
     # Get model
@@ -202,13 +210,18 @@ if __name__ == "__main__":
     if args.mode == "single":
         ids = raw_texts = [args.text[:100]]
         speakers = np.array([args.speaker_id])
+        emotions = np.array([args.emotion_id])
         if preprocess_config["preprocessing"]["text"]["language"] == "en":
-            texts = np.array([preprocess_english(args.text, preprocess_config)])
+            texts = np.array(
+                [preprocess_english(args.text, preprocess_config)])
         elif preprocess_config["preprocessing"]["text"]["language"] == "zh":
-            texts = np.array([preprocess_mandarin(args.text, preprocess_config)])
+            texts = np.array(
+                [preprocess_mandarin(args.text, preprocess_config)])
         text_lens = np.array([len(texts[0])])
-        batchs = [(ids, raw_texts, speakers, texts, text_lens, max(text_lens))]
+        batchs = [(ids, raw_texts, speakers, texts,
+                   text_lens, max(text_lens), emotions)]
 
     control_values = args.pitch_control, args.energy_control, args.duration_control
 
-    synthesize(model, args.restore_step, configs, vocoder, batchs, control_values)
+    synthesize(model, args.restore_step, configs,
+               vocoder, batchs, control_values)

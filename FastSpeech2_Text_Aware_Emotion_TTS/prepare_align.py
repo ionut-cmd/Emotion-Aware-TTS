@@ -2,7 +2,7 @@ import argparse
 
 import yaml
 
-from preprocessor import ljspeech, aishell3, libritts, dataverse
+from preprocessor import ljspeech, aishell3, libritts, dataverse, emov_db
 
 
 def main(config):
@@ -14,6 +14,8 @@ def main(config):
         libritts.prepare_align(config)
     if "Dataverse" in config["dataset"]:
         dataverse.prepare_align(config)
+    if "EmoV_DB" in config["dataset"]:
+        emov_db.prepare_align(config)
 
 
 if __name__ == "__main__":

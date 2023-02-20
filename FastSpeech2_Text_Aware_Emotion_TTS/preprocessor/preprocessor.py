@@ -263,7 +263,7 @@ class Preprocessor:
 
         return (
             "|".join([basename, speaker, text,
-                     raw_text, basename.split('_')[2]]),
+                     raw_text, basename.split('_')[0].lower()]),
             self.remove_outlier(pitch),
             self.remove_outlier(energy),
             mel_spectrogram.shape[1],

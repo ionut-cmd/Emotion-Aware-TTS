@@ -72,7 +72,7 @@ def to_device(data, device):
         (ids, raw_texts, speakers, texts, src_lens, max_src_len, emotions) = data
 
         speakers = torch.from_numpy(speakers).long().to(device)
-        emotions = torch.from_numpy(emotions).to(device)
+        emotions = torch.from_numpy(emotions).long().to(device)
         texts = torch.from_numpy(texts).long().to(device)
         src_lens = torch.from_numpy(src_lens).to(device)
 
@@ -121,7 +121,7 @@ def expand(values, durations):
 
 
 def synth_one_sample(targets, predictions, vocoder, model_config, preprocess_config):
-    
+
     basename = targets[0][0]
     src_len = predictions[8][0].item()
     mel_len = predictions[9][0].item()
