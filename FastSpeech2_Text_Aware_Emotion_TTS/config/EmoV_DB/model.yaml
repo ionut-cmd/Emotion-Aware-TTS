@@ -30,7 +30,9 @@ variance_embedding:
 
 multi_speaker: True
 
-multi_emotion: True
+multi_emotion: False
+
+bert_emotion: False
 
 max_seq_len: 1000
 

@@ -3,6 +3,11 @@ import argparse
 from string import punctuation
 
 import torch
+
+
+
+
+
 import yaml
 import numpy as np
 from torch.utils.data import DataLoader
@@ -10,11 +15,21 @@ from g2p_en import G2p
 from pypinyin import pinyin, Style
 
 from utils.model import get_model, get_vocoder
-from utils.tools import to_device, synth_samples
+from utils.tools import to_device, synth_samples, get_roberta_emotion_embeddings
 from dataset import TextDataset
 from text import text_to_sequence
 
+from transformers import RobertaTokenizerFast, AutoModel, AutoModelForSequenceClassification
+
+ro_model = "/content/FastSpeech2_Text_Aware_Emotion_TTS/robert_emotion_fyp"
+roberta_tokenizer = RobertaTokenizerFast.from_pretrained('roberta-base')
+roberta_model = AutoModelForSequenceClassification.from_pretrained(ro_model)
+
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+
+
 
 
 def read_lexicon(lex_path):
@@ -144,6 +159,13 @@ if __name__ == "__main__":
         help="emotion ID for multi-emotion synthesis, for single-sentence mode only",
     )
     parser.add_argument(
+        "--bert_embed",
+        type=int,
+        default=0,
+        help="Use bert embedings to control sentiment",
+    )
+
+    parser.add_argument(
         "-p",
         "--preprocess_config",
         type=str,
@@ -204,13 +226,20 @@ if __name__ == "__main__":
         dataset = TextDataset(args.source, preprocess_config)
         batchs = DataLoader(
             dataset,
-            batch_size=8,
+            batch_size=8, 
             collate_fn=dataset.collate_fn,
         )
     if args.mode == "single":
+
+        if np.array([args.bert_embed]) == 0:
+          emotions = np.array([args.emotion_id])
+        else:
+          emotions = get_roberta_emotion_embeddings(roberta_tokenizer, roberta_model, args.text)
+        
         ids = raw_texts = [args.text[:100]]
         speakers = np.array([args.speaker_id])
-        emotions = np.array([args.emotion_id])
+        
+  
         if preprocess_config["preprocessing"]["text"]["language"] == "en":
             texts = np.array(
                 [preprocess_english(args.text, preprocess_config)])

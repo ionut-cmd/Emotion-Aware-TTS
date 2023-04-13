@@ -117,4 +117,12 @@ output/
 *.npy
 TextGrid/
 hifigan/*.pth.tar
-#preprocessed_data/Dataverse/TextGrid
+hifigan/*.pth.tar.zip
+
+
+roberta_pretrained/*.bin
+energy/
+duration/
+mel/
+pitch/
+

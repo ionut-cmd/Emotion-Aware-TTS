@@ -7,7 +7,7 @@ import torch.nn.functional as F
 
 from transformer import Encoder, Decoder, PostNet
 from .modules import VarianceAdaptor
-from utils.tools import get_mask_from_lengths
+from utils.tools import get_mask_from_lengths, get_roberta_emotion_embeddings
 
 
 class FastSpeech2(nn.Module):
@@ -42,6 +42,7 @@ class FastSpeech2(nn.Module):
             )
 
         self.emotion_emb = None
+        
         if model_config["multi_emotion"]:
             with open(
                 os.path.join(
@@ -57,6 +58,14 @@ class FastSpeech2(nn.Module):
             self.emotion_linear = nn.Sequential(
                 nn.Linear(model_config["transformer"]["encoder_hidden"],
                           model_config["transformer"]["encoder_hidden"]),
+                nn.ReLU()
+            )
+
+        self.bert_emb = None
+        if model_config["bert_emotion"]:
+           
+            self.bert_emotion_linear = nn.Sequential(
+                nn.Linear(5, model_config["transformer"]["encoder_hidden"]),
                 nn.ReLU()
             )
 
@@ -90,11 +99,20 @@ class FastSpeech2(nn.Module):
             output = output + self.speaker_emb(speakers).unsqueeze(1).expand(
                 -1, max_src_len, -1
             )
+        
 
         if self.emotion_emb is not None:
             output = output + self.emotion_linear(self.emotion_emb(emotions)).unsqueeze(1).expand(
                 -1, max_src_len, -1
             )
+
+          
+        if self.bert_emb is not None:
+            bert_emotion_embedding = emotions
+            bert_emotion_embedding = self.bert_emotion_linear(bert_emotion_embedding)
+            output = output + self.emotion_linear(bert_emotion_embedding).unsqueeze(1).expand(-1, max_src_len, -1)
+          
+      
 
         (
             output,

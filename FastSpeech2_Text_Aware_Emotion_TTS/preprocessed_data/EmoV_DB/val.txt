@@ -1,0 +1,512 @@
+amused_281-308_0281|josh|{AY1 D UW1 N AA1 T B L EY1 M Y UW1 F AO1 R EH1 N IY0 TH IH2 NG R IY0 M EH1 M B ER0 DH AE1 T}|I do not blame you for anything; remember that.|amused
+disgust_309-336_0322|bea|{DH IH0 S IH0 Z AH0 K AA1 M AH0 N IH0 K S P IH1 R IY0 AH0 N S W IH0 TH AO1 L AH0 V AH1 S}|This is a common experience with all of us.|disgust
+sleepiness_449-476_0451|bea|{AY1 N OW1 T AH0 S T B L AH1 D S P AW1 T IH0 NG F R AH1 M K ER1 F UH0 T Z L EH1 F T HH AE1 N D}|I noticed blood spouting from Kerfoot's left hand.|sleepiness
+amused_113-140_0114|sam|{HH ER0 W ER1 D Z S EH1 N T AH0 S T R EY1 N JH CH IH1 L TH R UW1 F IH1 L AH0 P}|Her words sent a strange chill through Philip.|amused
+neutral_449-476_0466|sam|{K AE1 P T AH0 N W EH1 S T M EY1 B IY0 AH0 S AE1 M ER0 AY2 B AH1 T HH IY1 IH0 Z AO1 L S OW0 HH Y UW1 M AH0 N}|Captain West may be a Samurai, but he is also human.|neutral
+sleepiness_29-56_0033|bea|{HH IY1 AH0 N F OW1 L D AH0 D AH0 L AO1 NG T AY1 P R IH2 T AH0 N L EH1 T ER0 AH0 N D HH AE1 N D IH0 D IH1 T T AH0 G R EH1 G S AH0 N}|He unfolded a long typewritten letter, and handed it to Gregson.|sleepiness
+anger_253-280_0270|sam|{AE1 N D AE1 F T ER0 DH AH0 B AE1 TH AH0 SH EY1 V W UH1 D N AA1 T B IY0 B AE1 D}|And after the bath a shave would not be bad.|anger
+anger_197-224_0221|jenie|{AY1 D OW1 N T N OW1 HH W AY1 Y UH1 R HH IY1 R AE1 T AO1 L}|I don't know why you're here at all.|anger
+amused_113-136_0130|jenie|{SH IY1 W AH1 Z HH IH0 Z N AW1 F ER0 EH1 V ER0}|She was his now, forever.|amused
+neutral_336-364_0344|sam|{HH IY1 S IY1 M D T AH0 F IH1 L IH0 T W IH0 DH HH IH0 Z T R AH0 M EH1 N D AH0 S V AY0 T AE1 L AH0 T IY0}|He seemed to fill it with his tremendous vitality.|neutral
+neutral_57-84_0068|sam|{IH0 N AH0 F L AE1 SH F IH1 L AH0 P F AA1 L OW0 D IH0 T S D ER0 EH1 K SH AH0 N}|In a flash Philip followed its direction.|neutral
+sleepiness_85-112_0111|sam|{IH0 N S T EH1 D HH IY1 JH OY1 N D HH ER1 AE1 N D DH EY1 EY1 T L AY1 K T UW1 HH AH1 NG G R IY0 CH IH1 L D R AH0 N}|Instead, he joined her; and they ate like two hungry children.|sleepiness
+anger_85-112_0085|bea|{EY1 T R IH1 K AH0 L AH1 V F R EH1 SH B L AH1 D R AE1 N OW1 V ER0 HH IH0 Z F EY1 S}|A trickle of fresh blood ran over his face.|anger
+anger_169-196_0175|jenie|{D AW1 N DH EH1 R DH IY0 ER1 TH W AA1 Z AO0 L R EH1 D IY0 S W EH1 L IH0 NG W IH0 TH L AY1 F}|Down there the earth was already swelling with life.|anger
+amused_393-420_0397|sam|{K AO1 L M IY1 DH AE1 T AH0 G EH1 N HH IY1 M ER1 M ER0 D EH0 K S T AE1 T IH0 K L IY0}|Call me that again, he murmured ecstatically.|amused
+amused_393-420_0404|sam|{P ER0 AO1 L T F AW1 N D W AH1 N W IH0 DH HH EH1 D B EH1 R IY0 D IH0 N DH AH0 G R AH1 B B AA1 K S}|Perrault found one with head buried in the grub box.|amused
+disgust_309-336_0329|bea|{AA1 IH0 N D IY1 D}|Ah, indeed.|disgust
+anger_369-392_0376|jenie|{Y UH1 R P R AY1 S M AY1 S AH1 N IH0 Z JH AH1 S T AH0 B AW1 T TH ER1 T IY2 P ER1 W IY1 K}|Your price, my son, is just about thirty per week.|anger
+anger_141-168_0161|jenie|{T EY1 K AH0 W EY1 DH EH1 R F AO1 R M AH0 N AE1 N D DH EY1 W UH1 D AH0 N T B IY0 W ER1 TH DH EH1 R G R AH1 B}|Take away their foreman and they wouldn't be worth their grub.|anger
+disgust_336-364_0343|sam|{Y UW1 M IY1 N F ER0 DH IH0 S S T EY1 T JH EH1 N ER0 AH0 L AE0 L B ER1 T AH0}|You mean for this State, General, Alberta.|disgust
+neutral_393-420_0401|sam|{DH AH0 M AE1 N S M AY1 L D G R IH1 M L IY0 AH0 N D B R AO1 T AH0 HH AE1 CH AH0 T AE1 N D AH0 K L AH1 B}|The man smiled grimly, and brought a hatchet and a club.|neutral
+neutral_85-112_0086|josh|{D EH1 TH HH AE1 D K AH1 M W IH0 TH T EH1 R AH0 B AH0 L S AH1 D AH0 N N AH0 S}|Death had come with terrible suddenness.|neutral
+sleepiness_421-448_0441|sam|{V AY1 AH0 L AH0 N T L AY1 F AH0 N D AE0 TH L EH1 T IH0 K S P AO1 R T S HH AE1 D N EH1 V ER0 AH0 P IY1 L D T AH0 M IY1}|Violent life and athletic sports had never appealed to me.|sleepiness
+anger_505-532_0532|jenie|{M EY1 D R AW1 T D IH0 S T R OY1 Y UH1 R K R AA1 P S}|May drought destroy your crops.|anger
+amused_29-56_0033|jenie|{HH IY1 AH0 N F OW1 L D AH0 D AH0 L AO1 NG T AY1 P R IH2 T AH0 N L EH1 T ER0 AE1 N D HH AE1 N D IH0 D IH0 T T AH0 G R EH1 G S AH0 N}|He unfolded a long typewritten letter, and handed it to Gregson.|amused
+neutral_57-84_0067|sam|{SH UH1 R L IY0 AY1 W AH0 L IH0 K S K Y UW1 Z Y UW1 SH IY1 K R AY1 D}|Surely I will excuse you, she cried.|neutral
+neutral_197-364_0203|jenie|{DH EY1 W ER0 F AA1 L OW0 IH0 NG DH AH0 SH AO1 R AH0 V AH0 L EY1 K}|They were following the shore of a lake.|neutral
+neutral_197-364_0323|jenie|{HH IY1 K AH0 N S IH1 D ER0 D DH AH0 V IH1 K T ER0 IY0 AO0 L R EH1 D IY0 HH IH1 Z AH0 N D S T EH1 P T F AO1 R W ER0 D T AH0 DH AH0 M IY1 T}|He considered the victory already his and stepped forward to the meat.|neutral
+sleepiness_57-84_0084|josh|{S K EH1 R S L IY0 HH AE1 D HH IY1 AH1 T ER0 D DH AH0 N EY1 M W EH1 N P IY0 EH1 R Z K L OW1 Z IH0 NG AY1 Z SH AA1 T OW1 P AH0 N}|Scarcely had he uttered the name when Pierre's closing eyes shot open.|sleepiness
+amused_141-168_0149|sam|{F ER0 AH0 N IH1 N S T AH0 N T HH IY1 S AO1 P IY0 EH1 R D R AO1 N L AY1 K AH0 S IH2 L AH0 W EH1 T AH0 G EH1 N S T DH AH0 S K AY1}|For an instant he saw Pierre drawn like a silhouette against the sky.|amused
+amused_225_252_0229|josh|{DH AH0 L AE1 S T W AH1 N AY1 N Y UW1 W AH1 Z AH0 N OW1 V ER0 S IY1 ER0}|The last one I knew was an overseer.|amused
+neutral_29-56_0042|josh|{HH AW1 K UH1 D HH IY1 IH0 K S P L EY1 N HH IH0 Z P AH0 Z EH1 SH AH0 N AH0 V DH AH0 S K EH1 CH}|How could he explain his possession of the sketch.|neutral
+neutral_141-168_0148|sam|{N AW1 DH IY1 Z TH IH1 NG Z HH AE1 D B IH0 N S T R AH1 K D EH1 D W IH0 TH IH1 N HH IH1 M}|Now these things had been struck dead within him.|neutral
+sleepiness_393-420_0405|sam|{IH0 T S IY1 M D DH AH0 AO0 R D EY1 N D AO1 R D ER0 AH0 V TH IH1 NG Z DH AH0 T D AO1 G Z SH UH1 D W ER1 K}|It seemed the ordained order of things that dogs should work.|sleepiness
+sleepiness_85-112_0088|bea|{HH IY1 M EY1 D SH UH1 R DH AH0 T DH AH0 M AE1 G AH0 Z IY2 N W AH1 Z L OW1 D IH0 D AH0 N D R IH0 Z UW1 M D HH IH0 Z P AE1 D AH0 L IH0 NG}|He made sure that the magazine was loaded, and resumed his paddling.|sleepiness
+sleepiness_253-280_0275|sam|{DH EH1 R ER0 N OW1 K IH1 D IY0 Z AH0 N D HH AE1 F G R OW1 N Y UW1 TH S AH0 M AH1 NG DH AH0 M}|There are no kiddies and half grown youths among them.|sleepiness
+anger_337-364_0351|jenie|{IH1 T W AA1 Z M AO1 R L AY1 K SH UH1 G ER0}|It was more like sugar.|anger
+amused_421-448_0440|sam|{Y EH1 S S ER1 AY1 K ER0 EH1 K T IH0 D}|Yes, sir, I corrected.|amused
+amused_85-112_0102|bea|{HH IY1 W AH0 L F AA1 L OW0 AH1 S S UW1 N}|He will follow us soon.|amused
+amused_421-448_0430|sam|{N EH2 V ER0 DH AH0 L EH1 S W IY1 F AW1 N D AA0 R S EH1 L V Z W AH1 N S M AO1 R IH0 N DH AH0 HH AY1 S IY1 T AH1 V AH0 B AH1 N D AH0 N S}|Nevertheless we found ourselves once more in the high seat of abundance.|amused
+sleepiness_281-307_0300|bea|{F R AH1 M M AY1 ER1 L IY0 AH0 S T R EH2 K AH0 L EH1 K SH AH0 N M AY1 S L IY1 P W AH1 Z AH0 P IH1 R IY0 AH0 D AH0 V T EH1 R ER0}|From my earliest recollection my sleep was a period of terror.|sleepiness
+disgust_421-448_0447|sam|{AA1 IH0 T IH1 Z G R OW1 IH0 NG D AA1 R K AH0 N D D AA1 R K ER0}|Ah, it is growing dark and darker.|disgust
+anger_253-280_0271|sam|{N AW1 P L IY1 Z G IH1 V AH0 P L EY1 N S T EY1 T M AH0 N T AH0 V W AH1 T AH0 K ER1 D}|Now please give a plain statement of what occurred.|anger
+disgust_225-252_0230|bea|{D UW1 Y UW1 N OW1 EH1 N IY0 G UH1 D L AE1 N D ER0 AW1 N D HH IY1 R}|Do you know any good land around here.|disgust
+disgust_113-140_0114|bea|{HH ER0 W ER1 D Z S EH1 N T AH0 S T R EY1 N JH CH IH1 L TH R UW1 F IH1 L AH0 P}|Her words sent a strange chill through Philip.|disgust
+amused_1-15_0014|bea|{N AW1 Y UH1 R K AH1 M IH0 NG D AW1 N T AH0 B IH1 Z N AH0 S F IH1 L HH IY1 IH0 K S K L EY1 M D}|Now you're coming down to business, Phil, he exclaimed.|amused
+anger_141-168_0153|jenie|{M AH0 K D UW1 G AH0 L T AE1 P T HH IH0 Z F AO1 R HH EH0 D S AH0 S P IH1 SH AH0 S L IY0 W IH0 DH AH0 S T AH1 B IY0 F AO1 R F IH2 NG G ER0}|MacDougall tapped his forehead suspiciously with a stubby forefinger.|anger
+neutral_367-392_0365|sam|{DH IY1 Z R UW1 M ER0 Z M EY1 IY1 V IH0 N ER0 IH1 JH AH0 N EY2 T W IH0 TH AH1 S}|These rumors may even originate with us.|neutral
+disgust_29-56_0040|jenie|{AY1 S AH0 P OW1 Z Y UW1 W AH1 N D ER0 HH W AY1 SH IY1 IH0 Z K AH1 M IH0 NG AH1 P HH IY1 R}|I suppose you wonder why she is coming up here.|disgust
+neutral_57-84_0081|josh|{HH W AH1 T IH0 F SH IY1 D IH0 D N AA1 T K AH1 M T AH0 DH AH0 R AA1 K}|What if she did not come to the rock.|neutral
+Neutral_85-112_0086|bea|{D EH1 TH HH AE1 D K AH1 M W IH0 TH T EH1 R AH0 B AH0 L S AH1 D AH0 N N AH0 S}|Death had come with terrible suddenness.|neutral
+neutral_253-280_0280|josh|{AY1 L B IY0 AW1 T AH0 V M AY1 HH EH1 D IH0 N F IH1 F T IY1 N M IH1 N AH0 T S}|I'll be out of my head in fifteen minutes.|neutral
+amused_29-56_0049|sam|{G R EH1 G S AH0 N W AH1 Z AH0 S L IY1 P HH W EH1 N HH IY1 R IY1 EH1 N T ER0 D DH AH0 K AE1 B AH0 N}|Gregson was asleep when he re-entered the cabin.|amused
+amused_449-476_0473|jenie|{DH AH0 N AY1 T W AH1 Z K AA1 L M AH0 N D S N OW1 IY0}|The night was calm and snowy.|amused
+sleepiness_477-504_0477|jenie|{W AA1 D AH0 L UW1 IY0 AH0 N D DH AH0 S T UW1 ER0 D AA1 R S ER1 V AH0 N T S AH0 V EY2 ZH IY0 AE1 T IH0 K B R IY1 D}|Wada, Louis, and the steward are servants of Asiatic breed.|sleepiness
+disgust_57-84_0067|bea|{SH UH1 R L IY0 AY1 W AH0 L IH0 K S K Y UW1 Z Y UW1 SH IY1 K R AY1 D}|Surely I will excuse you, she cried.|disgust
+neutral_197-364_0249|jenie|{AO1 L AY1 Z HH AW2 EH1 V ER0 W ER0 S T EH1 R IH0 NG AE1 T HH IH1 M IH0 N S ER1 T AH0 T UW2 D AH1 V IH0 K S P EH1 K T AH0 N S IY0}|All eyes, however, were staring at him in certitude of expectancy.|neutral
+neutral_169-196_0173|josh|{DH AH0 D EY1 T W AH1 Z N IH1 R L IY0 EY1 T IY1 N Y IH1 R Z OW1 L D}|The date was nearly eighteen years old.|neutral
+amused_169-196_0196|sam|{HH IY1 B IY0 G AE1 N T AH0 F AA1 L OW0 DH AH0 F UH1 T P R IH2 N T S AH0 V DH AH0 D AO1 G}|He began to follow the footprints of the dog.|amused
+disgust_85-112_0092|bea|{HH IY1 W EH1 N T D AW1 N IH0 N M IH1 D S T R IY2 M S ER1 CH IH0 NG DH AH0 SH AE1 D OW2 Z AH1 V B OW1 TH SH AO1 R Z}|He went down in midstream, searching the shadows of both shores.|disgust
+neutral_57-84_0077|josh|{IH0 T IH0 Z DH AH0 F AY1 R P AA1 R T L IY0 SH IY1 S EH1 D}|It is the fire, partly, she said.|neutral
+neutral_141-168_0153|sam|{M AH0 K D UW1 G AH0 L T AE1 P T HH IH0 Z F AO1 R HH EH0 D S AH0 S P IH1 SH AH0 S L IY0 W IH0 TH AH0 S T AH1 B IY0 F AO1 R F IH2 NG G ER0}|MacDougall tapped his forehead suspiciously with a stubby forefinger.|neutral
+neutral_477-504_0500|sam|{HH UW1 DH AH0 D EH1 V AH0 L G EY1 V IH0 T T UW1 Y UW1 T AH0 B IY0 JH AH1 JH AH0 N D JH UH1 R IY0}|Who the devil gave it to you to be judge and jury.|neutral
+amused_309-336_0333|sam|{DH IH1 S IH0 Z N OW1 P L EY1 S F ER0 Y UW1}|This is no place for you.|amused
+amused_309-336_0329|jenie|{AA1 IH0 N D IY1 D}|Ah, indeed.|amused
+neutral_113-140_0127|josh|{IH0 T W AH1 Z AH0 T EH0 M T EY1 SH AH0 N B AH1 T HH IY1 R IH0 Z IH1 S T IH0 D IH0 T}|It was a temptation, but he resisted it.|neutral
+sleepiness_169-196_0190|bea|{N EH1 K S T T AH0 DH EH1 M DH AH0 K AE1 N AH0 D AH0 JH EY1 Z W ER0 M OW1 S T P ER0 S IH1 S T AH0 N T}|Next to them the Canada jays were most persistent.|sleepiness
+sleepiness_29-56_0042|josh|{HH AW1 K UH1 D HH IY1 IH0 K S P L EY1 N HH IH1 Z P AH0 Z EH1 SH AH0 N AH0 V DH AH0 S K EH1 CH}|How could he explain his possession of the sketch.|sleepiness
+disgust_281-308_0308|bea|{HH IH1 Z IH0 N F ER1 N AH0 L CH AE1 T ER0 IH0 NG W ER1 IY0 Z M IY1 IY1 V IH0 N N AW1 EH1 Z AY1 TH IH1 NG K AH0 V IH0 T}|His infernal chattering worries me even now as I think of it.|disgust
+anger_1-28_0001|jenie|{AO1 TH ER0 AH0 V DH AH0 D EY1 N JH ER0 T R EY1 L F IH1 L AH0 P S T IY1 L Z EH2 T S EH1 T ER0 AH0}|Author of the danger trail, Philip Steels, etc.|anger
+neutral_57-84_0084|josh|{S K EH1 R S L IY0 HH AE1 D HH IY1 AH1 T ER0 D DH AH0 N EY1 M W EH1 N P IY0 EH1 R Z K L OW1 Z IH0 NG AY1 Z SH AA1 T OW1 P AH0 N}|Scarcely had he uttered the name when Pierre's closing eyes shot open.|neutral
+neutral_309-336_0310|sam|{M AH0 S AA1 ZH AH1 N D ER0 T EH1 N SH AH0 N W AH1 Z DH AH0 K R IH1 P T IH0 K R IH0 P L AY1}|Massage under tension, was the cryptic reply.|neutral
+amused_309-336_0314|sam|{DH AH1 S W AH1 Z M OW0 M EH1 N T AH0 M G EY1 N D IH0 N DH AH0 Y AH1 NG G ER0 W ER1 L D}|Thus was momentum gained in the Younger World.|amused
+amused_449-476_0455|sam|{AY1 OW0 B EY1 D AH0 N D AH0 M IH1 N AH0 T ER0 T UW1 L EY1 T ER0 DH EY1 S T UH1 D B IH0 F AO1 R HH IH1 M}|I obeyed, and a minute or two later they stood before him.|amused
+sleepiness_309-336_0318|bea|{P R AH0 D AH1 K SH AH0 N IH0 Z D AH1 B L IH0 NG AE1 N D K W AA0 D R UW1 P AH0 L IH0 NG AH0 P AA1 N IH0 T S EH1 L F}|Production is doubling and quadrupling upon itself.|sleepiness
+sleepiness_393-420_0403|jenie|{HH IH0 Z N UW1 B AO0 R N K AH1 N IH0 NG G EY1 V HH IH1 M P OY1 Z AE1 N D K AH0 N T R OW1 L}|His newborn cunning gave him poise and control.|sleepiness
+neutral_421-448_0448|sam|{AY1 W AH1 Z HH AH1 M P K AE1 B AH0 N B OY1 AA1 N DH AH0 S K UW1 N ER0 G OW1 S T}|I was Hump, cabin boy on the schooner Ghost.|neutral
+amused_169-196_0182|sam|{DH IH0 S T AY1 M HH IY1 D IH1 D N AA1 T Y AE1 P F R ER0 M ER1 S IY0}|This time he did not yap for mercy.|amused
+amused_225-252_0239|sam|{HH IY1 K R AY1 D IH1 N S AH1 CH JH EH1 N Y AH0 W AH0 N D IH0 S M EY1 DH AH0 T SH IY1 B R OW1 K IH0 N T AH0 HH AA1 R T IY0 L AE1 F T ER0}|He cried in such genuine dismay that she broke into hearty laughter.|amused
+disgust_29-56_0052|bea|{IH0 T W AH1 Z AH0 K Y UH1 R IY0 AH0 S K OW0 IH1 N S IH0 D AH0 N S}|It was a curious coincidence.|disgust
+amused_85-112_0086|sam|{D EH1 TH HH AE1 D K AH1 M W IH0 TH T EH1 R AH0 B AH0 L S AH1 D AH0 N N AH0 S}|Death had come with terrible suddenness.|amused
+amused_29-56_0036|sam|{SH IY1 T ER1 N D IH1 N AE1 T DH AH0 HH OW0 T EH1 L}|She turned in at the hotel.|amused
+anger_113-140_0135|jenie|{AY1 EY1 EH1 M G OW1 IH0 NG T AH0 S AH0 P R AY1 Z F AA1 DH ER0 AE1 N D Y UW1 W AH0 L G OW1 W IH0 TH P IY0 EH1 R}|I am going to surprise father, and you will go with Pierre.|anger
+amused_85-112_0089|josh|{DH AH0 spn W AH1 Z T R EH1 CH ER0 AH0 S T AH0 SH UW1 T B AY1}|The nightglow was treacherous to shoot by.|amused
+sleepiness_1-28_0028|josh|{R AA1 B ER0 IY0 B R AY1 B ER0 IY0 F R AO1 D}|Robbery, bribery, fraud,|sleepiness
+anger_225-252_0237|bea|{S OW1 HH Y UW1 IY0 AH0 N D AY1 D IH1 D DH AH0 M AE1 N AH0 JH IH0 NG AA0 R S EH1 L V Z}|So Hughie and I did the managing ourselves.|anger
+neutral_197-364_0221|jenie|{AY1 D OW1 N T N OW1 W AY1 Y UH1 R HH IY1 R AE1 T AO1 L}|I don't know why you're here at all.|neutral
+anger_477-504_0485|sam|{IY1 CH IH0 N S AH1 L T AE1 D AH0 D T AH0 DH AH0 V AE1 L Y UW0 AH0 V DH AH0 K L EY1 M}|Each insult added to the value of the claim.|anger
+amused_1-28_0015|jenie|{IH1 T S DH IY0 ER0 AO1 R AH0 B AO2 R IY0 AE1 L AH0 S}|It's the aurora borealis.|amused
+neutral_85-112_0094|sam|{HH IY1 HH AE1 D B EH1 R L IY0 EH1 N T ER0 D DH IH0 S W EH1 N HH IY1 S AO1 DH AH0 G L OW1 AH0 V AH0 F AY1 R}|He had barely entered this when he saw the glow of a fire.|neutral
+disgust_533-560_0546|jenie|{AY1 L AO1 S T M AY1 B AE1 L AH0 N S AE1 N D P IH1 CH T HH EH1 D F AO1 R M OW2 S T IH0 N T AH0 DH IY0 UW1 Z}|I lost my balance and pitched head foremost into the ooze.|disgust
+amused_253-280_0257|sam|{DH EY1 AA1 R K AH1 M IH0 NG AH0 SH AO1 R HH UW0 EH1 V ER0 DH EY1 AA1 R}|They are coming ashore, whoever they are.|amused
+amused_1-28_0026|jenie|{IH0 T AH0 K ER1 D T UW1 M IY1 DH AH0 T DH EH1 R W UH1 D HH AE1 V T AH0 B IY0 AE1 N AH0 K AW1 N T IH0 NG}|It occurred to me that there would have to be an accounting.|amused
+sleepiness_309-336_0326|sam|{CH EH1 R AH0 K IY2 AY0 D EH1 N T AH0 F AY2 D HH IH0 M S EH1 L F W IH0 TH HH IH0 Z IH1 N S T IH0 NG K T}|Cherokee identified himself with his instinct.|sleepiness
+amused_113-140_0122|bea|{T UW1 Y IH1 R Z AH0 G OW1 AY1 G EY1 V AH1 P S IH2 V AH0 L IH0 Z EY1 SH AH0 N F R ER0 DH IH1 S}|Two years ago I gave up civilization for this.|amused
+neutral_1-28_0004|jenie|{L AO1 R D B AH1 T AY1 M G L AE1 D T AH0 S IY1 Y UW1 AH0 G EH1 N F IH1 L}|Lord, but I'm glad to see you again, Phil.|neutral
+Disgust_113-140_0131|sam|{P R AA1 V AH0 D AH0 N S HH AE1 D D IH0 L IH1 V ER0 D HH IH1 M TH R UW1 DH AH0 M EY1 L S T R AH0 M}|Providence had delivered him through the maelstrom.|disgust
+Disgust_1-28_0024|sam|{IH0 T W AH1 Z M AY1 R IH0 P AO1 R T S F ER0 M DH AH0 N AO1 R TH W IH1 CH CH IY1 F L IY0 IH0 N D UW1 S T P IY1 P AH0 L T AH0 B AY1}|It was my reports from the north which chiefly induced people to buy.|disgust
+anger_197-224_0214|sam|{B IH0 S AY1 D Z HH IY1 W AH1 Z P EY1 D W AH1 N K EY1 S AH0 V T AH0 B AE1 K OW2 P ER1 HH EH1 D}|Besides, he was paid one case of tobacco per head.|anger
+disgust_367-392_0379|sam|{HH AW1 OW1 L D AA1 R Y UW1 D AE1 D IY0}|How old are you, daddy.|disgust
+amused_449-476_0458|sam|{DH AH0 S T AW1 T W UH1 D W AH1 Z K R AH1 SH T L AY1 K AH0 N EH1 G SH EH2 L}|The stout wood was crushed like an eggshell.|amused
+amused_196-224_0200|bea|{HH IY1 L EH1 P T AH0 G EH1 N AE1 N D DH AH0 K L AH1 B K AA1 T HH IH1 M W AH1 N S M AO1 R}|He leapt again, and the club caught him once more.|amused
+sleepiness_113-140_0113|jenie|{AY1 S AH0 P OW1 Z Y UW1 P IH1 K T DH AE1 T L IH1 NG G OW0 AH1 P AH0 M AH1 NG DH IY0 IH1 N D IY0 AH0 N Z}|I suppose you picked that lingo up among the Indians.|sleepiness
+neutral_113-140_0130|jenie|{SH IY1 W AH1 Z HH IH1 Z N AW1 F ER0 EH1 V ER0}|She was his now, forever.|neutral
+neutral_197-364_0231|jenie|{DH AH0 R EH1 Z IH0 D AH0 N T K AH0 M IH1 SH AH0 N ER0 IH0 Z AH0 W EY1 IH0 N AO0 S T R EY1 L Y AH0}|The Resident Commissioner is away in Australia.|neutral
+sleepiness_449-476_0468|jenie|{IH0 N DH AH0 M AE1 T ER0 AH0 V K ER1 IY0 SH IY1 IH0 Z AH0 SH IH1 R JH IY1 N Y AH0 S}|In the matter of curry she is a sheer genius.|sleepiness
+sleepiness_85-112_0107|bea|{IH0 F Y UW1 OW1 N L IY0 K UH1 D N OW1 HH AW1 AY1 TH AE1 NG K Y UW1}|If you only could know how I thank you.|sleepiness
+anger_141-168_0150|jenie|{G UH2 D B AY1 P IY0 EH1 R HH IY1 SH AW1 T IH0 D}|Goodbye, Pierre, he shouted.|anger
+sleepiness_477-504_0483|sam|{B IY2 AO1 N D D IH0 S P Y UW1 T K AO1 R IY0 HH AH1 CH IH0 N S AH0 N HH AE1 D M EH1 R IY0 D M EY1 B AH0 L HH OW1 M Z}|Beyond dispute, Corry Hutchinson had married Mabel Holmes.|sleepiness
+anger_393-420_0409|sam|{HH IY1 K UH1 D F IY1 L AH0 N Y UW1 S T ER1 IH0 N DH AH0 L AE1 N D}|He could feel a new stir in the land.|anger
+anger_29-56_0055|bea|{F IH1 L AH0 P S T UH1 D AH2 N D IH0 S AY1 D IH0 D HH IH1 Z IY1 R Z S T R EY1 N D T AH0 K AE1 CH DH AH0 S L AY1 T AH0 S T S AW1 N D}|Philip stood undecided, his ears strained to catch the slightest sound.|anger
+anger_113-140_0133|sam|{F IH1 L AH0 P B IH0 G AE1 N T AH0 F IY1 L DH AH0 T HH IY1 HH AE1 D F UW1 L IH0 SH L IY0 OW2 V ER0 EH1 S T AH0 M EY2 T IH0 D HH IH1 Z S T R EH1 NG K TH}|Philip began to feel that he had foolishly overestimated his strength.|anger
+neutral_365-392_0381|jenie|{M AY1 N EY1 M Z F ER1 G AH0 S AH0 N}|My name's Ferguson.|neutral
+neutral_197_224_0224|sam|{SH IY1 N AA1 D AH0 D AE1 N D HH ER0 AY1 Z G R UW1 S AO1 F T AH0 N D M OY1 S T}|She nodded, and her eyes grew soft and moist.|neutral
+anger_29-56_0040|jenie|{AY1 S AH0 P OW1 Z Y UW1 W AH1 N D ER0 W AY1 SH IY1 IH0 Z K AH1 M IH0 NG AH1 P HH IY1 R}|I suppose you wonder why she is coming up here.|anger
+amused_113-140_0135|bea|{AY1 EY1 EH1 M G OW1 IH0 NG T AH0 S ER0 P R AY1 Z F AA1 DH ER0 AE1 N D Y UW1 W IH1 L G OW1 W IH0 TH P IY0 EH1 R}|I am going to surprise father, and you will go with Pierre.|amused
+neutral_85-112_0102|jenie|{HH IY1 W AH0 L F AA1 L OW0 AH1 S S UW1 N}|He will follow us soon.|neutral
+sleepiness_57-84_0064|bea|{DH AH0 F AO1 R TH AE1 N D F IH1 F TH D EY1 Z P AE1 S T W IH0 TH AW1 T EH1 N IY0 D IH0 V EH1 L AH0 P M AH0 N T S}|The fourth and fifth days passed without any developments.|sleepiness
+anger_225-252_0247|bea|{DH EY1 AO1 T T AH0 P AE1 S HH IY1 R S AH1 M T AY1 M T AH0 D EY1}|They ought to pass here some time today.|anger
+sleepiness_225-252_0228|josh|{B AH1 T IH1 T K AH0 N T R IH1 B Y UW0 T IH0 D T AH0 DH AH0 S M AE1 SH}|But it contributed to the smash.|sleepiness
+Disgust_141-168_0143|sam|{AA1 AY1 HH AE1 D F ER0 G AA1 T AH0 N HH IY1 IH0 K S K L EY1 M D}|Ah, I had forgotten, he exclaimed.|disgust
+sleepiness_169_196_0170|sam|{DH EH1 R W AA1 Z N AH1 N AH0 V DH AH0 JH OY1 AH0 V M IY1 T IH0 NG IH0 N HH IH0 Z F EY1 S}|There was none of the joy of meeting in his face.|sleepiness
+sleepiness_253-280_0278|sam|{IH0 T W UH1 D G IH1 V M IY1 N ER1 V AH0 S P R AA0 S T R EY1 SH AH0 N}|It would give me nervous prostration.|sleepiness
+neutral_197-364_0358|jenie|{DH EY1 K AH0 N T IH1 N Y UW0 D V AE1 L Y AH0 N T L IY0 T AH0 L AY1 B AH1 T DH AH0 T R UW1 TH K AH0 N T IH1 N Y UW0 D T AH0 AW0 T R AH1 N DH EH1 M}|They continued valiantly to lie, but the truth continued to outrun them.|neutral
+disgust_29-56_0039|jenie|{DH AH0 SH IH1 P SH UH1 D B IY0 IH0 N W IH0 DH IH1 N AH0 W IY1 K AO1 R T EH1 N D EY1 Z}|The ship should be in within a week or ten days.|disgust
+neutral_197-224_0210|josh|{IH0 T S D AY0 AE1 M AH0 T ER0 W AH1 Z N AA1 T M AO1 R DH AH0 N T UW1 HH AH1 N D ER0 D Y AA1 R D Z}|Its diameter was not more than two hundred yards.|neutral
+sleepiness_57-84_0059|jenie|{HH IH0 Z IH0 M AE1 K Y UW0 L IH0 T AH0 P IH1 R AH0 N S W AH1 Z G AO1 N}|His immaculate appearance was gone.|sleepiness
+anger_113-140_0128|bea|{DH IH0 S W AH1 N HH OW1 P W AH1 Z D IH0 S T R OY1 D EH1 Z K W IH1 K L IY0 EH1 Z IH0 T W AH1 Z B AO1 R N}|This one hope was destroyed as quickly as it was born.|anger
+anger_367-392_0388|sam|{IH0 T W AH1 Z M AY1 AY0 D IY1 AH0 T UW1 AH0 T IY1}|It was my idea to a tee.|anger
+neutral_141-168_0141|jenie|{IH0 T S IY1 M Z L AY1 K AH0 S T R EY1 N JH P OY1 N T IH0 NG AH0 V DH AH0 HH AE1 N D AH0 V G AA1 D}|It seems like a strange pointing of the hand of God.|neutral
+sleepiness_85-112_0095|josh|{AH0 B IH1 G K AE1 N V AH0 S T EH1 N T W AH1 Z DH AH0 F ER1 S T TH IH1 NG T AH0 K AH1 M W IH0 DH IH1 N HH IH0 Z V IH1 ZH AH0 N}|A big canvas tent was the first thing to come within his vision.|sleepiness
+disgust_1-28_0023|bea|{AH0 K AA2 M B AH0 N EY1 SH AH0 N AH1 V K AH0 N EY1 D IY0 AH0 N K AE1 P AH0 T AH0 L K W IH1 K L IY0 AO1 R G AH0 N AY2 Z D AH0 N D P AH0 T IH1 SH AH0 N D F ER0 DH AH0 S EY1 M P R IH1 V L IH0 JH IH0 Z}|A combination of Canadian capital quickly organized and petitioned for the same privileges.|disgust
+amused_449-476_0449|jenie|{AH0 S IH1 N Y UW0 IY0 HH AE1 N D D R IH1 P IH0 NG W IH0 TH W AO1 T ER0 W AH1 Z K L AH1 CH IH0 NG DH AH0 R EY1 L}|A sinewy hand, dripping with water, was clutching the rail.|amused
+neutral_29-56_0053|jenie|{S AH1 D AH0 N L IY0 HH IH1 Z F IH1 NG G ER0 Z K L OW1 Z D T AY1 T L IY0 OW1 V ER0 DH AH0 HH AE1 NG K ER0 CH IH0 F}|Suddenly his fingers closed tightly over the handkerchief.|neutral
+amused_225_252_0246|josh|{Y UW1 HH AE1 V HH ER1 D AO1 L W EY2 Z HH AW1 HH IY1 W AH1 Z DH AH0 L AH1 V ER0 AH0 V DH AH0 P R IH1 N S EH0 S N EY0 OW1 M IY0}|You have heard always how he was the lover of the Princess Naomi.|amused
+amused_197-224_0217|sam|{AH0 P R EH1 S IH0 V EH1 Z DH AH0 HH IY1 T HH AE1 D B AH0 N IH0 T W AH1 Z N AW1 IY1 V IH0 N M AO1 R AH0 P R EH1 S IH0 V}|Oppressive as the heat had been, it was now even more oppressive.|amused
+amused_309-336_0310|jenie|{M AH0 S AA1 ZH AH1 N D ER0 T EH1 N SH AH0 N W AH1 Z DH AH0 K R IH1 P T IH0 K R IH0 P L AY1}|Massage under tension, was the cryptic reply.|amused
+sleepiness_141-168_0159|bea|{DH EY1 L UH1 K EH1 Z DH OW1 HH IY1 HH AE1 D B IH1 N D R AH1 M IH0 NG AH0 P IY0 AE1 N OW0 AO1 L HH IH0 Z L AY1 F}|They look as though he had been drumming a piano all his life.|sleepiness
+disgust_225-252_0249|bea|{AO1 L AY1 Z HH AW2 EH1 V ER0 W ER0 S T EH1 R IH0 NG AE1 T HH IH1 M IH0 N S ER1 T AH0 T UW2 D AH0 V IH0 K S P EH1 K T AH0 N S IY0}|All eyes, however, were staring at him in certitude of expectancy.|disgust
+sleepiness_365-392_0385|bea|{DH AE1 T S W AH1 T K AA1 R N AH0 G IY0 D IH0 D}|That's what Carnegie did.|sleepiness
+anger_113-140_0113|sam|{AY1 S AH0 P OW1 Z Y UW1 P IH1 K T DH AE1 T L IH1 NG G OW0 AH1 P AH0 M AH1 NG DH IY0 IH1 N D IY0 AH0 N Z}|I suppose you picked that lingo up among the Indians.|anger
+amused_1-28_0008|jenie|{G AE1 D Y UH1 R L EH1 T ER0 K EY1 M JH AH1 S T IH0 N T AY1 M}|Gad, your letter came just in time.|amused
+amused_113-140_0126|sam|{IY1 CH D EY1 SH IY1 B IH0 K EY1 M AH0 M AO1 R V AY1 T AH0 L P AA1 R T AH0 V HH IH1 M}|Each day she became a more vital part of him.|amused
+disgust_367-392_0375|sam|{DH AH0 B UH1 CH ER0 Z AE1 N D M IY1 T K AH1 T ER0 Z R AH0 F Y UW1 Z D T AH0 HH AE1 N D AH0 L M IY1 T D EH1 S T IH0 N D F ER0 AH1 N F EH1 R R EH1 S T R AA2 N T S}|The butchers and meat cutters refused to handle meat destined for unfair restaurants.|disgust
+sleepiness_197-224_0221|josh|{AY1 D OW1 N T N OW1 W AY1 Y UH1 R HH IY1 R AE1 T AO1 L}|I don't know why you're here at all.|sleepiness
+sleepiness_421-448_0443|bea|{HH IY1 W AH1 Z W ER1 TH N AH1 TH IH0 NG T AH0 DH AH0 W ER1 L D}|He was worth nothing to the world.|sleepiness
+disgust_225-252_0233|bea|{AY1 N EH1 V ER0 AH0 L AW1 W AH1 T K AE1 N T B IY0 CH EY1 N JH D T UW1 AH0 N OY1 M IY1}|I never allow what can't be changed to annoy me.|disgust
+disgust_367-392_0391|sam|{B AH1 T HH IY1 R EH1 K AH0 N S AY2 L D HH IH0 M S EH1 L F T UW1 IH0 T B AY1 AH0 N AE1 K T AH0 V F EY1 TH}|But he reconciled himself to it by an act of faith.|disgust
+neutral_393-420_0420|sam|{HH W EH1 N AY1 K EY1 M T UW1 AY1 W AH1 Z W EY1 V IH0 NG M AY1 HH AE1 T AH0 N D M ER1 M ER0 IH0 NG EH0 K S T AE1 T IH0 K L IY0}|When I came to I was waving my hat and murmuring ecstatically.|neutral
+sleepiness_253-280_0253|sam|{HH IY1 IH0 T W AO1 Z DH AH0 T L IH1 V D T AH0 F AW1 N D DH AH0 F AE1 M AH0 L IY0 AH0 V DH AH0 P AA0 T IY1 N OW0}|He it was that lived to found the family of the Patino.|sleepiness
+amused_421-448_0424|sam|{AA1 B V IY0 AH0 S L IY0 IH0 T W AH1 Z AH0 D IH0 Z IY1 Z DH AH0 T K UH1 D B IY0 K AA1 N T R AE0 K T AH0 D B AY1 K AA1 N T AE2 K T}|Obviously, it was a disease that could be contracted by contact.|amused
+neutral_113-140_0139|jenie|{HH IY1 T OW1 L D HH IH0 M S EH1 L F DH AE1 T AE1 Z HH IY1 W AA1 SH T HH IH0 M S EH1 L F AH0 N D G R UW1 M D HH IH0 Z D IH0 SH EH1 V AH0 L D K L OW1 DH Z}|He told himself that as he washed himself and groomed his disheveled clothes.|neutral
+sleepiness_85-112_0102|sam|{HH IY1 W AH0 L F AA1 L OW0 AH1 S S UW1 N}|He will follow us soon.|sleepiness
+Disgust_197-224_0219|sam|{AE1 T F ER1 S T HH IY1 P AH1 Z AH0 L D OW1 V ER0 S AH1 M TH IH0 NG AH0 N T AH0 W AO1 R D HH IY1 W AH1 Z SH UH1 R HH AE1 D HH AE1 P AH0 N D}|At first he puzzled over something untoward he was sure had happened.|disgust
+disgust_253-280_0266|jenie|{DH EY1 HH AE1 N D AH0 L D T UW1 M EH1 N AO0 L R EH1 D IY0 B OW1 TH G R AH1 B TH IY1 V Z}|They handled two men already, both grub-thieves.|disgust
+sleepiness_421-448_0447|bea|{AA1 IH0 T IH0 Z G R OW1 IH0 NG D AA1 R K AH0 N D D AA1 R K ER0}|Ah, it is growing dark and darker.|sleepiness
+neutral_281-308_0295|sam|{AE1 N D T W EH1 N T IY0 M EH1 N K UH1 D HH OW1 L D IH0 T W IH0 TH S P IH1 R Z AH0 N D EH1 R OW0 Z}|And twenty men could hold it with spears and arrows.|neutral
+anger_393-420_0415|jenie|{IH0 T L AE1 S T IH0 D AE1 Z AH0 D IH0 T ER1 R AH0 N T F R ER0 T UW1 D EY1 Z}|It lasted as a deterrent for two days.|anger
+sleepiness_169-196_0174|josh|{DH EY1 W ER0 DH AH0 P R EH1 S IH0 JH AH0 V S T AO1 R M}|They were the presage of storm.|sleepiness
+amused_85-112_0093|sam|{F AO1 R AH0 F UH1 L M IH1 N AH0 T HH IY1 K R AW1 CH T AE1 N D L IH1 S AH0 N D}|For a full minute he crouched and listened.|amused
+neutral_367-392_0377|sam|{DH IH0 S S AW1 N D D IH0 D N AA1 T D IH0 S T ER1 B DH AH0 HH AH1 SH AE1 N D AO1 AH1 V DH AH0 P L EY1 S}|This sound did not disturb the hush and awe of the place.|neutral
+amused_1-28_0028|jenie|{R AA1 B ER0 IY0 B R AY1 B ER0 IY0 F R AO1 D}|Robbery, bribery, fraud,|amused
+sleepiness_253_280_0260|josh|{N OW1 B AH0 D IY0 N UW1 HH IH0 Z HH IH1 S T ER0 IY0 DH EY1 AH0 V DH AH0 HH UH1 N T AH0 L IY1 S T AH1 V AO1 L}|Nobody knew his history, they of the Junta least of all.|sleepiness
+anger_367-392_0378|sam|{DH AE1 T S W AY1 IH0 T S B AW1 N D ER0 IY0 Z AA1 R AO1 L G AW1 JH D AH0 N D JH AE1 G D}|That's why its boundaries are all gouged and jagged.|anger
+Neutral_85-112_0101|bea|{Y UW1 Y UW1 W UH1 D N AA1 T K IY1 P DH AH0 T R UW1 TH F ER0 M M IY1}|You, you would not keep the truth from me.|neutral
+neutral_281-308_0282|bea|{IH0 F Y UW1 M IY1 N T AH0 IH0 N S IH1 N Y UW0 EY0 T B R EH1 N T W UH2 D B IH0 G AE1 N HH AA1 T L IY0}|If you mean to insinuate -- Brentwood began hotly.|neutral
+disgust_253-280_0260|jenie|{N OW1 B AH0 D IY0 N Y UW1 HH IH0 Z HH IH1 S T ER0 IY0 DH EY1 AH0 V DH AH0 HH UH1 N T AH0 L IY1 S T AH0 V AO1 L}|Nobody knew his history, they of the Junta least of all.|disgust
+sleepiness_1-28_0007|sam|{AE1 N D Y UW1 AO1 L W EY2 Z W AA1 N T T AH0 S IY1 IH0 T IH0 N DH AH0 S UH0 P ER1 L AH0 T IH0 V D IH0 G R IY1}|And you always want to see it in the superlative degree.|sleepiness
+neutral_85-112_0086|jenie|{D EH1 TH HH AE1 D K AH1 M W IH0 TH T EH1 R AH0 B AH0 L S AH1 D AH0 N N AH0 S}|Death had come with terrible suddenness.|neutral
+anger_337-364_0361|jenie|{B AH1 T HH IY1 D IH1 D N AA1 T B R OW1 CH IH1 T P R IH0 F ER1 IH0 NG T UW1 M AH0 CH UH1 R IH1 T K EH1 R F AH0 L IY0}|But he did not broach it, preferring to mature it carefully.|anger
+anger_29-56_0048|jenie|{HH IY1 L UH1 K T AE1 T DH AH0 HH AE1 NG K ER0 CH IH0 F M AO1 R K L OW1 S L IY0}|He looked at the handkerchief more, closely.|anger
+amused_141-168_0147|sam|{AH0 M OW1 M AH0 N T B IH0 F AO1 R HH IY1 W AH1 Z IH0 N T AA1 K S IH0 K EY2 T IH0 D B AY1 AH0 JH OY1 DH AE1 T W AH1 Z AO1 L M OW2 S T M AE1 D N AH0 S}|A moment before he was intoxicated by a joy that was almost madness.|amused
+neutral_57-84_0074|jenie|{AE1 N D N AW1 D AW1 N DH EH1 R AY0 L IY1 N W AH1 Z W EY1 T IH0 NG F ER0 HH IH1 M}|And now, down there, Eileen was waiting for him.|neutral
+Disgust_197-224_0224|sam|{SH IY1 N AA1 D AH0 D AE1 N D HH ER0 AY1 Z G R UW1 S AO1 F T AE1 N D M OY1 S T}|She nodded, and her eyes grew soft and moist.|disgust
+amused_85-112_0105|sam|{OW1 N L IY0 IH0 T IH1 Z S OW1 W AH1 N D ER0 F AH0 L S OW1 AO1 L M OW2 S T IH0 M P AA1 S AH0 B AH0 L T UW1 B IH0 L IY1 V}|Only, it is so wonderful, so almost impossible to believe.|amused
+disgust_197-224_0211|bea|{IH1 T D R AW1 N D AO1 L S AW1 N D DH AE1 T B R UW1 T AE1 G AH0 N IY0 AH0 N D D EH1 TH M EY1 HH AE1 V M EY1 D}|It drowned all sound that brute agony and death may have made.|disgust
+disgust_533-560_0539|jenie|{AY1 SH UH1 D L AY1 K T UW1 EH0 N G EY1 JH JH AH1 S T F ER0 W AH1 N HH OW1 L L AY1 F IH1 N DH AE1 T}|I should like to engage just for one whole life in that.|disgust
+neutral_29-56_0038|sam|{W IH1 L HH AE1 V T AH0 W AA1 CH AA1 R CH AE1 N S AH0 Z}|We'll have to watch our chances.|neutral
+disgust_225-252_0239|bea|{HH IY1 K R AY1 D IH0 N S AH1 CH JH EH1 N Y UW1 W AY2 N D IH0 S M EY1 DH AH0 T SH IY1 B R OW1 K IH0 N T UW1 HH AA1 R T IY0 L AE1 F T ER0}|He cried in such genuine dismay that she broke into hearty laughter.|disgust
+Disgust_57-84_0065|sam|{DH EY1 K L OW1 Z D N AW1 AH0 N T IH1 L HH IH0 Z F IH1 NG G ER0 Z W ER0 L AY1 K K AO1 R D Z AH0 V S T IY1 L}|They closed now until his fingers were like cords of steel.|disgust
+anger_337-364_0355|jenie|{AH0 B ER1 S T AH1 V L AE1 F T ER0 W AH1 Z HH IH1 Z R IH0 W AO1 R D}|A burst of laughter was his reward.|anger
+neutral_477-504_0495|sam|{HH IY1 B AO1 R N OW1 G R AH1 JH IH0 Z AE1 N D HH AE1 D F Y UW1 EH1 N AH0 M IY0 Z}|He bore no grudges and had few enemies.|neutral
+sleepiness_367-392_0373|sam|{P OY1 N T S AH0 V V Y UW1 N Y UW1 AY0 D IY1 AH0 Z L AY1 F}|Points of view, new ideas, life.|sleepiness
+neutral_85-112_0102|josh|{HH IY1 W AH0 L F AA1 L OW0 AH1 S S UW1 N}|He will follow us soon.|neutral
+sleepiness_281-307_0303|bea|{B AH1 T DH EY1 M EY1 K DH AH0 M IH0 S T EY1 K AH0 V IH0 G N AO1 R IH0 NG DH EH1 R OW1 N D UW0 AE1 L AH0 T IY0}|But they make the mistake of ignoring their own duality.|sleepiness
+neutral_141-168_0167|jenie|{AY1 W AH1 Z N IH1 R DH AH0 K AE1 B AH0 N AE1 N D S AO1 Y UW1}|I was near the cabin, and saw you.|neutral
+neutral_197-224_0202|bea|{SH IY1 T ER1 N D F IH1 R IH0 NG DH AE1 T JH AE1 K M AY1 T S IY1 W AH1 T W AH1 Z IH0 N HH ER0 F EY1 S}|She turned, fearing that Jacques might see what was in her face.|neutral
+neutral_113-140_0014|bea|{N AW1 Y UW1 R K AH1 M IH0 NG D AW1 N T AH0 B IH1 Z N IH0 S F IH1 L HH IY1 IH0 K S K L EY1 M D}|Now you're coming down to business, Phil, he exclaimed.|neutral
+neutral_309-336_0314|sam|{DH AH1 S W AH1 Z M OW0 M EH1 N T AH0 M G EY1 N D IH0 N DH IY0 Y AH1 NG G ER0 W ER1 L D}|Thus was momentum gained in the Younger World.|neutral
+anger_225_252_0241|sam|{AY1 TH IH1 NG K IH0 T S M AH1 CH N AY1 S ER0 T IH0 K W AO1 R AH0 L}|I think it's much nicer to quarrel.|anger
+sleepiness_29-56_0054|jenie|{DH EH1 R W AH1 Z N AH1 TH IH0 NG AA1 N DH AH0 R AA1 K}|There was nothing on the rock.|sleepiness
+disgust_57-84_0073|bea|{DH AH0 P R AH0 M OW1 T ER0 Z AY1 Z W ER0 HH EH1 V IY0 W IH0 TH L IH1 T AH0 L P AH1 F IY0 B AE1 G Z AH1 N D ER0 DH EH1 M}|The promoter's eyes were heavy, with little puffy bags under them.|disgust
+sleepiness_29-56_0052|jenie|{IH0 T W AH1 Z AH0 K Y UH1 R IY0 AH0 S K OW0 IH1 N S IH0 D AH0 N S}|It was a curious coincidence.|sleepiness
+neutral_29-56_0037|jenie|{AY1 W AH1 Z DH IY0 OW1 N L IY0 W AH1 N HH UW1 R IH0 M EY1 N D S IH1 T IH0 NG}|I was the only one who remained sitting.|neutral
+sleepiness_281-308_0299|josh|{AY1 T EH1 L Y UW1 AY1 EY1 EH1 M D IH0 S G AH1 S T AH0 D W IH0 TH DH IH0 S AH0 D V EH1 N CH ER0 T AA1 M F UW1 L ER0 IY0 AH0 N D R AA1 T}|I tell you I am disgusted with this adventure tomfoolery and rot.|sleepiness
+anger_253-280_0260|jenie|{N OW1 B AH0 D IY0 N Y UW1 HH IH1 Z HH IH1 S T ER0 IY0 DH EY1 AH0 V DH AH0 HH UH1 N T AH0 L IY1 S T AH1 V AO1 L}|Nobody knew his history, they of the Junta least of all.|anger
+Disgust_141-168_0162|sam|{DH AE1 T S DH AH0 S AH1 B F AO1 R M AH0 N IH0 K S P L EY1 N D TH AO1 R P}|That's the sub-foreman, explained Thorpe.|disgust
+anger_253-280_0276|jenie|{UW1 L AO0 NG AE1 T AO2 L W AH1 Z W AH1 N HH AH1 N D R AH0 D AE1 N D F AO1 R T IY0 M AY1 AH0 L Z IH0 N S ER0 K AH1 M F R AH0 N S}|Oolong Atoll was one hundred and forty miles in circumference.|anger
+neutral_113-140_0124|jenie|{IH0 T W AH1 Z JH IY1 N S IH1 NG IH0 NG S AO1 F T L IY0 OW1 V ER0 B IY2 AO1 N D DH AH0 R AA1 K S}|It was Jeanne singing softly over beyond the rocks.|neutral
+neutral_477-504_0499|sam|{AE1 N D R AY1 T DH EH1 R AY1 S AO1 AE1 N D N Y UW1 IH0 T AO1 L}|And right there I saw and knew it all.|neutral
+amused_113-140_0113|bea|{AY1 S AH0 P OW1 Z Y UW1 P IH1 K T DH AE1 T L IH1 NG G OW0 AH1 P AH0 M AH1 NG DH AH0 IH1 N D IY0 AH0 N Z}|I suppose you picked that lingo up among the Indians.|amused
+amused_477-504_0478|sam|{AO1 L S OW0 SH IY1 HH AE1 Z F ER0 R B IH1 D AH0 N DH AH0 M S M OW1 K IH0 NG DH EH1 R P AY1 P S IH0 N DH IY0 AE1 F T ER0 R UW1 M}|Also, she has forbidden them smoking their pipes in the after-room.|amused
+disgust_141-168_0163|bea|{F IH1 L IH0 P M EY1 D N OW1 EH1 F ER0 T T AH0 F AA1 L OW0}|Philip made no effort to follow.|disgust
+neutral_197-224_0214|bea|{B IH0 S AY1 D Z HH IY1 W AH1 Z P EY1 D W AH1 N K EY1 S AH0 V T AH0 B AE1 K OW2 P ER1 HH EH1 D}|Besides, he was paid one case of tobacco per head.|neutral
+amused_57-84_0079|jenie|{IH0 T W AH1 Z AH0 L AA1 R JH K AH0 N UW1}|It was a large canoe.|amused
+sleepiness_169-196_0182|bea|{DH IH0 S T AY1 M HH IY1 D IH0 D N AA1 T Y AE1 P F ER0 M ER1 S IY0}|This time he did not yap for mercy.|sleepiness
+sleepiness_393-420_0409|bea|{HH IY1 K UH1 D F IY1 L AH0 N Y UW1 S T ER1 IH0 N DH AH0 L AE1 N D}|He could feel a new stir in the land.|sleepiness
+sleepiness_281-307_0304|bea|{AY1 G R AE1 JH UW0 EY2 T IH0 D L AE1 S T AH0 V M AY1 K L AE1 S}|I graduated last of my class.|sleepiness
+Neutral_85-112_0090|bea|{DH AH0 S IH1 NG IH0 NG V OY1 S AH0 P R OW1 CH T R AE1 P AH0 D L IY0}|The singing voice approached rapidly.|neutral
+sleepiness_29-56_0056|jenie|{P IH1 R S IH0 Z L IH1 T AH0 L AY1 Z W ER0 F IH1 K S T AA1 N HH IH1 M SH R UW1 D L IY0}|Pearce's little eyes were fixed on him shrewdly.|sleepiness
+disgust_169-196_0190|bea|{N EH1 K S T AH0 DH EH1 M DH IY0 K AE1 N AH0 D AH0 JH EY1 Z W ER0 M OW1 S T P ER0 S IH1 S T AH0 N T}|Next to them the Canada jays were most persistent.|disgust
+anger_197-224_0201|bea|{HH IY1 K R AY1 D AE1 N D S W AH1 NG DH AH0 K L AH1 B W AY1 L D L IY0}|He cried, and swung the club wildly.|anger
+anger_393-420_0420|jenie|{HH W EH1 N AY1 K EY1 M T UW1 AY1 W AH1 Z W EY1 V IH0 NG M AY1 HH AE1 T AE1 N D M ER1 M ER0 IH0 NG EH0 K S T AE1 T IH0 K L IY0}|When I came to I was waving my hat and murmuring ecstatically.|anger
+Disgust_169_196_0180|sam|{IH1 F N AA1 T L EH1 T S S EY1 AA1 R P R EH1 R Z AE1 N D G OW1 T AH0 B EH1 D}|If not, let's say our prayers and go to bed.|disgust
+anger_369-392_0381|jenie|{M AY1 N EY1 M Z F ER1 G AH0 S AH0 N}|My name's Ferguson.|anger
+amused_281-308_0296|sam|{B AE1 S IH0 T W AH1 Z AH0 F AE0 S T IH1 D IY0 AH0 S M AE1 N}|Bassett was a fastidious man.|amused
+anger_197-224_0203|sam|{DH EY1 W ER0 F AA1 L OW0 IH0 NG DH AH0 SH AO1 R AH0 V AH0 L EY1 K}|They were following the shore of a lake.|anger
+Disgust_197-224_0212|sam|{F R EH1 SH K EY1 S IH0 Z S T IH1 L EY1 B AH0 L T AH0 W AO1 K DH EY1 K L AH1 S T ER0 D AH0 B AW1 T DH AH0 S P OW1 K S M AH0 N}|Fresh cases, still able to walk, they clustered about the spokesman.|disgust
+sleepiness_253_280_0259|josh|{TH IH1 NG K AH0 V IH0 N V EH1 S T IH0 NG IH0 N S AH1 CH AH0 N AH0 D V EH1 N CH ER0}|Think of investing in such an adventure.|sleepiness
+anger_57-84_0068|bea|{IH0 N AH0 F L AE1 SH F IH1 L AH0 P F AA1 L OW0 D IH0 T S D ER0 EH1 K SH AH0 N}|In a flash Philip followed its direction.|anger
+anger_393-420_0418|jenie|{DH AH0 P AO1 R CH AH0 G IY2 Z B OY1 K R AO1 L D N IH1 R ER0 AE1 N D N IH1 R ER0}|The Portuguese boy crawled nearer and nearer.|anger
+neutral_85-112_0094|josh|{HH IY1 HH AE1 D B EH1 R L IY0 EH1 N T ER0 D DH IH0 S W EH1 N HH IY1 S AO1 DH AH0 G L OW1 AH0 V AH0 F AY1 R}|He had barely entered this when he saw the glow of a fire.|neutral
+anger_197-224_0197|bea|{S AH1 CH AH0 D AO1 G DH AH0 W AY1 Z D R AY1 V ER0 K IH1 L Z ER0 T ER1 N Z L UW1 S}|Such a dog the wise driver kills, or turns loose.|anger
+disgust_29-56_0045|jenie|{HH IY1 M UW1 V D AH0 W EY1 EH1 Z K W AY1 AH0 T L IY0 EH1 Z HH IY1 HH AE1 D K AH1 M}|He moved away as quietly as he had come.|disgust
+anger_505-532_0518|jenie|{IH0 L UW1 M AH0 N EY2 T IH0 NG OY1 L W AH1 Z B IH0 K AH1 M IH0 NG AO1 L P R AA1 F AH0 T}|Illuminating oil was becoming all profit.|anger
+anger_197-224_0218|jenie|{DH AH0 R IH1 NG IH0 NG AH0 V DH AH0 B IH1 G B EH1 L ER0 AW1 Z D HH IH1 M}|The ringing of the big bell aroused him.|anger
+neutral_309-336_0318|bea|{P ER0 D AH1 K SH AH0 N IH0 Z D AH1 B AH0 L IH0 NG AH0 N D K W AA0 D R UW1 P AH0 L IH0 NG AH0 P AA1 N IH0 T S EH1 L F}|Production is doubling and quadrupling upon itself.|neutral
+neutral_225-252_0232|bea|{AY1 K AH0 N AA1 T F AA1 L OW0 Y UW1 SH IY1 S EH1 D}|I cannot follow you, she said.|neutral
+anger_449-476_0471|jenie|{AY1 S AO1 spn P AY1 K N AA1 D HH IH1 Z HH EH1 D G R IH1 M L IY0 AE1 N D S AA0 R K AE1 S T IH0 K L IY0}|I saw Mr Pike nod his head grimly and sarcastically.|anger
+neutral_336-364_0350|sam|{IH0 Z DH AE1 T P AE1 T HH AE1 N R AH0 HH AE0 N Z M AH1 G L UH1 K IH0 NG HH AH1 NG G R IY0 AH0 N D W IH1 L IH0 NG}|Is that Pat Hanrahan's mug looking hungry and willing.|neutral
+anger_29-56_0056|sam|{P IH1 R S IH0 Z L IH1 T AH0 L AY1 Z W ER0 F IH1 K S T AA1 N IH0 M SH R UW1 D L IY0}|Pearce's little eyes were fixed on him shrewdly.|anger
+sleepiness_85-112_0095|bea|{AH0 B IH1 G K AE1 N V AH0 S T EH1 N T W AH1 Z DH AH0 F ER1 S T TH IH1 NG T AH0 K AH1 M W IH0 TH IH1 N HH IH1 Z V IH1 ZH AH0 N}|A big canvas tent was the first thing to come within his vision.|sleepiness
+neutral_477-504_0482|sam|{AE1 N D DH EH1 R CH IY1 F V ER1 CH UW0 L AY1 Z IH0 N DH AE1 T DH EY1 W AH0 L N EH1 V ER0 W EH1 R AW1 T}|And their chief virtue lies in that they will never wear out.|neutral
+neutral_253-280_0253|sam|{HH IY1 IH0 T W AA1 Z DH AE1 T L IH1 V D T AH0 F AW1 N D DH AH0 F AE1 M L IY0 AH0 V DH AH0 P AA0 T IY1 N OW0}|He it was that lived to found the family of the Patino.|neutral
+anger_225-252_0226|bea|{DH AE1 T K EY1 M B IH0 F AO1 R M AY1 EY1 B IY1 S IY1 Z}|That came before my A B C's.|anger
+anger_225-252_0249|bea|{AO1 L AY1 Z HH AW2 EH1 V ER0 W ER0 S T EH1 R IH0 NG AE1 T HH IH1 M IH0 N S ER1 T AH0 T UW2 D AH0 V IH0 K S P EH1 K T AH0 N S IY0}|All eyes, however, were staring at him in certitude of expectancy.|anger
+neutral_141-168_0156|jenie|{AH0 S T R EY1 N JH F AY1 ER0 B ER1 N D IH0 N HH IH0 Z AY1 Z W EH1 N TH AO1 R P T ER1 N D}|A strange fire burned in his eyes when Thorpe turned.|neutral
+anger_169-196_0144|bea|{B AH1 T DH EH1 R W AA1 Z S AH1 M TH IH0 NG IY1 V IH0 N M AO1 R S T AA1 R T L IH0 NG DH AE1 N DH IH0 S R IH0 Z EH1 M B L AH0 N S}|But there was something even more startling than this resemblance.|anger
+sleepiness_197-224_0199|sam|{DH AH1 S HH AE1 D DH AH0 R AA1 W IH1 L D ER0 N AH0 S P R IY0 P EH1 R D IH0 M F ER0 DH IH0 S D EY1}|Thus had the raw wilderness prepared him for this day.|sleepiness
+neutral_1-28_0003|josh|{F ER0 DH AH0 T W EH1 N IY0 IH0 TH T AY1 M DH AE1 T IY1 V N IH0 NG DH AH0 T UW1 M EH1 N SH UH1 K HH AE1 N Z}|For the twentieth time that evening the two men shook hands.|neutral
+amused_57-84_0071|bea|{HH W AH1 T W AA1 Z DH AH0 AA1 B JH EH0 K T AH1 V Y UH1 R L IH1 T AH0 L S EH0 N S EY1 SH AH0 N}|What was the object of your little sensation.|amused
+anger_197-224_0208|bea|{Y UW1 TH HH AE1 D K AH1 M B AE1 K T AH0 HH ER0 F R IY1 D F R AH1 M DH IY0 Y OW1 K AH0 V AH0 P R EH1 SH AH0 N}|Youth had come back to her, freed from the yoke of oppression.|anger
+sleepiness_336-364_0349|sam|{IH0 T W AH1 Z S IH1 M P AH0 L IH0 N IH0 T S W EY1 AH0 N D N OW1 V ER1 CH UW0 AH0 V HH IH0 Z}|It was simple, in its way, and no virtue of his.|sleepiness
+sleepiness_421-448_0427|sam|{EH1 N T ER0 Z N AW1 DH AH0 S AY0 K AA1 L AH0 JH IY0 AH0 V DH AH0 S IH2 CH UW0 EY1 SH AH0 N}|Enters now the psychology of the situation.|sleepiness
+sleepiness_169-196_0190|jenie|{N EH1 K S T AH0 DH EH1 M DH AH0 K AE1 N AH0 D AH0 JH EY1 Z W ER0 M OW1 S T P ER0 S IH1 S T AH0 N T}|Next to them the Canada jays were most persistent.|sleepiness
+neutral_365-392_0385|jenie|{DH AE1 T S W AH1 T K AA1 R N AH0 G IY0 D IH1 D}|That's what Carnegie did.|neutral
+neutral_421-448_0424|sam|{AA1 B V IY0 AH0 S L IY0 IH0 T W AH1 Z AH0 D IH0 Z IY1 Z DH AH0 T K UH1 D B IY0 K AA1 N T R AE0 K T AH0 D B AY1 K AA1 N T AE2 K T}|Obviously, it was a disease that could be contracted by contact.|neutral
+neutral_1-28_0004|sam|{L AO1 R D B AH1 T AY1 M G L AE1 D T AH0 S IY1 Y UW1 AH0 G EH1 N F IH1 L}|Lord, but I'm glad to see you again, Phil.|neutral
+anger_253-280_0262|sam|{DH EY1 W UH1 D AH0 N T B IY0 S W IY1 P IH0 NG AH0 B IH1 G V EH1 S AH0 L L AY1 K DH AH0 M AA1 R TH AH0}|They wouldn't be sweeping a big vessel like the Martha.|anger
+neutral_1-28_0017|jenie|{F ER0 M DH AE1 T M OW1 M AH0 N T HH IH0 Z F R EH1 N SH IH0 P F ER0 B EH0 L IY1 Z T ER1 N Z T AH0 HH EY1 T R AH0 D AE1 N D JH EH1 L AH0 S IY0}|From that moment his friendship for Belize turns to hatred and jealousy.|neutral
+sleepiness_477-504_0481|sam|{N IH1 M R AA0 D R IH0 P L AY1 D W IH0 TH AH0 S L AY1 T M AE2 N AH0 F EH0 S T EY1 SH AH0 N AH0 V S EH1 N S AH0 T IH0 V N AH0 S}|Nimrod replied, with a slight manifestation of sensitiveness.|sleepiness
+neutral_197-364_0258|jenie|{S OW1 K T IH0 N S IY1 W AO2 T ER0 DH EY1 AO0 F S EH1 T DH IY0 HH IY1 T R EY1 Z}|Soaked in seawater they offset the heat rays.|neutral
+neutral_365-392_0370|jenie|{HH IY1 S AO1 AO1 L M EH1 N IH0 N DH AH0 B IH1 Z N AH0 S G EY1 M D UW1 IH0 NG DH IH1 S}|He saw all men in the business game doing this.|neutral
+anger_477-504_0477|jenie|{W AA1 D AH0 L UW1 IY0 AE1 N D DH AH0 S T UW1 ER0 D AA1 R S ER1 V AH0 N T S AH0 V EY2 ZH IY0 AE1 T IH0 K B R IY1 D}|Wada, Louis, and the steward are servants of Asiatic breed.|anger
+sleepiness_57-84_0061|jenie|{F IH1 L AH0 P S N AE1 CH T AE1 T DH AH0 L EH1 T ER0 HH W IH1 CH G R EH1 G S AH0 N HH EH1 L D AW1 T T AH0 HH IH1 M}|Philip snatched at the letter which Gregson held out to him.|sleepiness
+disgust_169-196_0185|bea|{DH AH0 K W EH1 S CH AH0 N Z M EY1 HH AE1 V K AH1 M V EY1 G L IY0 IH1 N HH IH1 Z M AY1 N D}|The questions may have come vaguely in his mind.|disgust
+disgust_57-84_0080|bea|{HH W AH1 T IH0 F JH IY1 N F EY1 L D HH IH1 M}|What if Jeanne failed him.|disgust
+amused_85-112_0090|sam|{DH AH0 S IH1 NG IH0 NG V OY1 S AH0 P R OW1 CH T R AE1 P AH0 D L IY0}|The singing voice approached rapidly.|amused
+anger_57-84_0077|bea|{IH0 T IH0 Z DH AH0 F AY1 ER0 P AA1 R T L IY0 SH IY1 S EH1 D}|It is the fire, partly, she said.|anger
+anger_477-504_0488|sam|{DH EH1 R L AH1 V B ER1 N D W IH0 DH IH0 N K R IY1 S IH0 NG B R AY1 T N AH0 S}|Their love burned with increasing brightness.|anger
+amused_141-168_0160|sam|{Y UW1 W AA1 N T T AH0 G OW1 OW1 V ER0 AE1 N D S IY1 HH IH1 Z G AE1 NG TH R OW1 D ER1 T}|You want to go over and see his gang throw dirt.|amused
+disgust_309-336_0321|bea|{DH AH0 L AO1 G AO1 N W IH1 CH spn IY1 R W AH1 Z L AY1 IH0 NG G AA1 T AH0 D R IH1 F T}|The log on which Lop-Ear was lying got adrift.|disgust
+amused_281-308_0297|josh|{DH EH1 R Z AH0 B IH1 G IH1 NG G L IH0 SH JH EH1 N ER0 AH0 L R AY1 T N AW1 HH UW1 Z N EY1 M IH0 Z R AA1 B ER0 T S}|There's a big English general right now whose name is Roberts.|amused
+disgust_57-84_0061|bea|{F IH1 L AH0 P S N AE1 CH T AE1 T DH AH0 L EH1 T ER0 W IH1 CH G R EH1 G S AH0 N HH EH1 L D AW1 T T AH0 HH IH1 M}|Philip snatched at the letter which Gregson held out to him.|disgust
+Disgust_225-252_0235|sam|{HH IH1 Z V OY1 S W AH1 Z P AE1 SH AH0 N AH0 T L IY0 R AH0 B EH1 L Y AH0 S}|His voice was passionately rebellious.|disgust
+sleepiness_57-84_0074|josh|{AH0 N D N AW1 D AW1 N DH EH1 R AY0 L IY1 N W AH1 Z W EY1 T IH0 NG F AO1 R HH IH1 M}|And now, down there, Eileen was waiting for him.|sleepiness
+anger_225-252_0232|jenie|{AY1 K AE1 N AA0 T F AA1 L OW0 Y UW1 SH IY1 S EH1 D}|I cannot follow you, she said.|anger
+amused_57-84_0076|sam|{DH AH0 G R EY1 AY1 Z F AA1 L T ER0 D DH AH0 F L AH1 SH D IY1 P AH0 N D}|The gray eyes faltered; the flush deepened.|amused
+sleepiness_253-280_0256|jenie|{S IY1 DH AH0 L EH1 NG K TH AH0 V DH AH0 B AA1 D IY0 AE1 N D DH AE1 T IH0 L AO1 NG G EY0 T AH0 D N EH1 K}|See the length of the body and that elongated neck.|sleepiness
+sleepiness_225-252_0245|sam|{AW1 T AH0 V HH IH0 Z EY1 T IY1 N HH AH1 N D ER0 D HH IY1 L EY1 D AH0 S AY1 D S IH1 K S T IY1 N HH AH1 N D ER0 D IY1 CH Y IH1 R}|Out of his eighteen hundred, he laid aside sixteen hundred each year.|sleepiness
+sleepiness_29-56_0032|bea|{S IH1 N S DH EH1 N S AH1 M M IH0 S T IH1 R IY0 AH0 S F AO1 R S HH AE1 Z B IH0 N F AY1 T IH0 NG AH1 S AE1 T EH1 V ER0 IY0 S T EH1 P}|Since then some mysterious force has been fighting us at every step.|sleepiness
+neutral_29-56_0044|sam|{HH ER0 OW1 N B IH0 T R EY1 AH0 L AH1 V HH ER0 S EH1 L F W AH1 Z L AY1 K T AA1 N IH0 K T AH0 F IH1 L AH0 P}|Her own betrayal of herself was like tonic to Philip.|neutral
+sleepiness_337-360_0355|jenie|{AH0 B ER1 S T AH0 V L AE1 F T ER0 W AH1 Z HH IH0 Z R IH0 W AO1 R D}|A burst of laughter was his reward.|sleepiness
+neutral_85-112_0112|jenie|{HH IY1 W AH1 Z W UW1 N D IH0 D IH0 N DH IY0 AA1 R M}|He was wounded in the arm.|neutral
+amused_477-504_0501|sam|{Y UH1 R JH OW1 K IH0 NG M IY1 S ER1 DH IY0 AH1 DH ER0 M AE1 N IH0 JH D T AH0 AA0 R T IH1 K Y AH0 L EY2 T}|You're joking me, sir, the other managed to articulate.|amused
+neutral_309-336_0326|bea|{CH EH1 R AH0 K IY2 AY0 D EH1 N T AH0 F AY2 D HH IH0 M S EH1 L F W IH0 TH HH IH0 Z IH1 N S T IH0 NG K T}|Cherokee identified himself with his instinct.|neutral
+sleepiness_281-308_0288|jenie|{DH OW1 Z ER0 M AY1 OY1 S T ER0 Z HH IY1 S EH1 D AE1 T L AE1 S T}|Those are my oysters, he said at last.|sleepiness
+disgust_309-336_0310|bea|{M AH0 S AA1 ZH AH1 N D ER0 T EH1 N SH AH0 N W AH1 Z DH AH0 K R IH1 P T IH0 K R IH0 P L AY1}|Massage under tension, was the cryptic reply.|disgust
+sleepiness_309-336_0328|jenie|{DH AH0 F AY1 ER0 P IY1 P AH0 L L AY1 K AA0 R S EH1 L V Z L IH1 V D IH0 N K EY1 V Z}|The Fire People, like ourselves, lived in caves.|sleepiness
+neutral_367-392_0381|sam|{M AY1 N EY1 M Z F ER1 G AH0 S AH0 N}|My name's Ferguson.|neutral
+neutral_477-504_0490|sam|{B OW1 TH JH AA1 N IY0 AE1 N D HH IH0 Z M AH1 DH ER0 SH AH1 F AH0 L D DH EH1 R F IY1 T EH1 Z DH EY1 W AO1 K T}|Both Johnny and his mother shuffled their feet as they walked.|neutral
+neutral_197-364_0349|jenie|{IH0 T W AH1 Z S IH1 M P AH0 L IH0 N IH0 T S W EY1 AE1 N D N OW1 V ER1 CH UW0 AH0 V HH IH1 Z}|It was simple, in its way, and no virtue of his.|neutral
+anger_85-112_0099|sam|{AH0 M AE1 D AH0 N IH0 NG JH OY1 P AW1 N D IH0 D IH0 N HH IH0 Z B R EY1 N}|A maddening joy pounded in his brain.|anger
+amused_85-112_0092|josh|{HH IY1 W EH1 N T D AW1 N IH0 N M IH1 D S T R IY2 M S ER1 CH IH0 NG DH AH0 SH AE1 D OW2 Z AH0 V B OW1 TH SH AO1 R Z}|He went down in midstream, searching the shadows of both shores.|amused
+sleepiness_309-336_0314|bea|{DH AH1 S W AH1 Z M OW0 M EH1 N T AH0 M G EY1 N D IH0 N DH IY0 Y AH1 NG G ER0 W ER1 L D}|Thus was momentum gained in the Younger World.|sleepiness
+amused_367-392_0371|sam|{IH1 T IH1 SH UW0 D AH0 R EY1 T AH0 V F AO1 R T IY0 T UW1 D AA1 L ER0 Z AH0 K AA1 R AA1 N CH AA1 R K OW2 L}|It issued a rate of forty two dollars a car on charcoal.|amused
+neutral_337-364_0351|bea|{IH1 T W AH1 Z M AO1 R L AY1 K SH UH1 G ER0}|It was more like sugar.|neutral
+sleepiness_393-420_0399|bea|{AH0 N D HH IH1 R Z AH0 N AH1 DH ER0 AY0 D IY1 AH0}|And here's another idea.|sleepiness
+sleepiness_367-392_0386|sam|{AY1 K AE1 N T AA1 R G Y UW0 W IH0 DH Y UW1 AH0 N D Y UW1 N OW1 DH AE1 T}|I can't argue with you, and you know that.|sleepiness
+amused_27-56_0051|josh|{DH AH0 L EY1 S W AH0 Z AH0 V AH0 D EH1 L AH0 K AH0 T AY1 V R IY0 K AH1 L ER0 F EY1 N T L IY0 T IH1 N T IH0 D W IH0 TH Y EH1 L OW0}|The lace was of a delicate ivory color, faintly tinted with yellow.|amused
+neutral_253-280_0262|sam|{DH EY1 W UH1 D AH0 N T B IY0 S W IY1 P IH0 NG AH0 B IH1 G V EH1 S AH0 L L AY1 K DH AH0 M AA1 R TH AH0}|They wouldn't be sweeping a big vessel like the Martha.|neutral
+neutral_197-364_0257|jenie|{DH EY1 ER0 K AH1 M IH0 NG AH0 SH AO1 R HH UW0 EH1 V ER0 DH EY1 AA1 R}|They are coming ashore, whoever they are.|neutral
+sleepiness_449-476_0452|sam|{TH R IY1 OY1 L ER0 Z AH0 N D AH0 F AO1 R TH EH1 N JH AH0 N IH1 R W AH1 Z HH IH0 Z G R IY1 T IH0 NG}|Three oilers and a fourth engineer, was his greeting.|sleepiness
+neutral_197-364_0333|jenie|{DH IH0 S IH0 Z N OW1 P L EY1 S F ER0 Y UW1}|This is no place for you.|neutral
+sleepiness_421-448_0438|jenie|{AE1 T S IY1 M AH1 N D EY2 M AA1 R CH}|At sea, Monday, March 16, 1908.|sleepiness
+neutral_225-252_0249|bea|{AO1 L AY1 Z HH AW2 EH1 V ER0 W ER0 S T EH1 R IH0 NG AE1 T HH IH1 M IH1 N S ER1 T AH0 T UW2 D AH0 V IH0 K S P EH1 K T AH0 N S IY0}|All eyes, however, were staring at him in certitude of expectancy.|neutral
+amused_225-252_0237|sam|{S OW1 HH Y UW1 IY0 AH0 N D AY1 D IH0 D DH AH0 M AE1 N AH0 JH IH0 NG AA0 R S EH1 L V Z}|So Hughie and I did the managing ourselves.|amused
+disgust_309-336_0325|sam|{W IH1 Z Z IH1 P B AE1 NG spn IY1 R S K R IY1 M D W IH0 TH S AH1 D AH0 N AE1 NG G W IH0 SH}|Whiz-zip-bang. Lop-Ear screamed with sudden anguish.|disgust
+sleepiness_449-476_0459|bea|{DH EH1 R Z T UW1 M AH1 CH AH0 V DH AH0 S K UW1 L B OY2 IH0 N M IY1}|There's too much of the schoolboy in me.|sleepiness
+anger_421-448_0444|sam|{DH EH1 N Y UW1 D OW1 N T B IH0 L IY1 V IH0 N AE1 L T R UW0 IH2 Z AH0 M}|Then you don't believe in altruism.|anger
+amused_225-252_0252|bea|{OW0 B R AY1 IH0 N HH AE1 D B IH1 N EY1 K L IY1 N L IH1 V IH0 NG Y AH1 NG M AE1 N W IH0 TH AY0 D IY1 L Z}|O'Brien had been a clean living young man with ideals.|amused
+anger_421-448_0441|jenie|{V AY1 L AH0 N T L AY1 F AE1 N D AE0 TH L EH1 T IH0 K S P AO1 R T S HH AE1 D N EH1 V ER0 AH0 P IY1 L D T AH0 M IY1}|Violent life and athletic sports had never appealed to me.|anger
+Disgust_169_196_0186|sam|{L AY1 K AH0 F L AE1 SH HH IY1 L AO1 N CH T HH IH0 M S EH1 L F IH0 N T AH0 DH AH0 F EH1 DH ER0 D M AE1 S AH0 V DH IY0 AW1 L}|Like a flash he launched himself into the feathered mass of the owl.|disgust
+sleepiness_337-360_0353|jenie|{HH IY1 R DH IY0 IH0 K S P L OW1 ZH AH0 N AH0 V M ER1 TH D R AW1 N D HH IH1 M AW1 T}|Here the explosion of mirth drowned him out.|sleepiness
+disgust_309-336_0330|sam|{R EH1 D AY1 N EH1 V ER0 K AH0 M IH1 T AH0 D AH0 M AO1 R AW0 T R EY1 JH AH0 S D IY1 D}|Red-Eye never committed a more outrageous deed.|disgust
+neutral_197-224_0205|bea|{F ER0 M N AW1 AA1 N W ER1 P AE1 L Z}|From now on we're pals.|neutral
+amused_225-252_0244|jenie|{HH IY1 W AH1 Z DH AH0 S OW1 L AH0 V D IH0 V OW1 SH AH0 N T AH0 HH IH1 Z IH0 M P L OY1 ER0 Z}|He was the soul of devotion to his employers.|amused
+amused_281-308_0307|sam|{V EH1 R IY0 ER1 L IY0 IH0 N M AY1 L AY1 F AY1 S EH1 P ER0 EY2 T IH0 D F R AH1 M M AY1 M AH1 DH ER0}|Very early in my life, I separated from my mother.|amused
+anger_169-196_0154|bea|{HH IY1 W AA1 Z S M UW1 DH SH EY1 V AH0 N AE1 N D HH IH1 Z HH EH1 R AE1 N D AY1 Z W ER0 B L AE1 K}|He was smooth-shaven, and his hair and eyes were black.|anger
+amused_225-252_0233|jenie|{AY1 N EH1 V ER0 AH0 L AW1 HH W AH1 T K AE1 N T B IY0 CH EY1 N JH D T UW1 AH0 N OY1 M IY1}|I never allow what can't be changed to annoy me.|amused
+anger_29-56_0043|jenie|{IH0 T S IY1 M D N IH1 R ER0 T AH0 IH0 M S IH1 N S HH IY1 HH AE1 D S IY1 N AE1 N D T AO1 K T W IH0 TH G R EH1 G S AH0 N}|It seemed nearer to him since he had seen and talked with Gregson.|anger
+neutral_309-336_0310|bea|{M AH0 S AA1 ZH AH1 N D ER0 T EH1 N SH AH0 N W AH1 Z DH AH0 K R IH1 P T IH0 K R IH0 P L AY1}|Massage under tension, was the cryptic reply.|neutral
+neutral_225-252_0239|bea|{HH IY1 K R AY1 D IH0 N S AH1 CH JH EH1 N Y AH0 W AH0 N D IH0 S M EY1 DH AH0 T SH IY1 B R OW1 K IH0 N T AH0 HH AA1 R T IY0 L AE1 F T ER0}|He cried in such genuine dismay that she broke into hearty laughter.|neutral
+sleepiness_197-224_0223|josh|{M AY1 AY1 M AO1 L M OW2 S T HH OW1 M S IH2 K F R ER0 IH0 T AO0 L R EH1 D IY0}|My, I'm almost homesick for it already.|sleepiness
+disgust_309-336_0312|sam|{IH1 T L IH1 V D IH1 N P ER0 P EH1 CH UW0 AH0 L AE2 P R IH0 HH EH1 N SH AH0 N AH1 V DH AE1 T K W AO1 R T ER0 AH0 V DH AH0 K AH1 M P AH0 S}|It lived in perpetual apprehension of that quarter of the compass.|disgust
+amused_196-224_0224|bea|{SH IY1 N AA1 D IH0 D AE1 N D HH ER0 AY1 Z G R UW1 S AA1 F T AH0 N D M OY1 S T}|She nodded, and her eyes grew soft and moist.|amused
+sleepiness_1-28_0010|sam|{AY1 M P L EY1 IH0 NG AH0 S IH1 NG G AH0 L HH AE1 N D IH0 N W AH1 T L UH1 K S L AY1 K AH0 L UW1 Z IH0 NG G EY1 M}|I'm playing a single hand in what looks like a losing game.|sleepiness
+amused_1-15_0004|bea|{L AO1 R D B AH1 T AY1 M G L AE1 D T AH0 S IY1 Y UW1 AH0 G EH1 N F IH1 L}|Lord, but I'm glad to see you again, Phil.|amused
+anger_57-84_0075|sam|{DH EH1 R HH AE1 Z B IH0 N AH0 CH EY1 N JH SH IY1 IH2 N T ER0 AH1 P T IH0 D HH IH1 M}|There has been a change, she interrupted him.|anger
+sleepiness_197-224_0223|sam|{M AY1 AY1 M AO1 L M OW2 S T HH OW1 M S IH2 K F AO1 R IH0 T AO0 L R EH1 D IY0}|My, I'm almost homesick for it already.|sleepiness
+neutral_85-112_0096|sam|{P ER0 HH AE1 P S SH IY1 HH AE1 D AO0 R EH1 D IY0 M EH1 T HH ER0 F EY1 T AH0 L IH1 T AH0 L D IY1 P ER0 IH0 N DH AH0 F AO1 R AH0 S T}|Perhaps she had already met her fate a little deeper in the forest.|neutral
+anger_477-504_0483|jenie|{B IY2 AO1 N D D IH0 S P Y UW1 T K AO1 R IY0 HH AH1 CH IH0 N S AH0 N HH AE1 D M EH1 R IY0 D M EY1 B AH0 L HH OW1 M Z}|Beyond dispute, Corry Hutchinson had married Mabel Holmes.|anger
+neutral_141-168_0168|sam|{L OW1 B UH1 SH W IH1 P T IH0 M IH0 N DH AH0 F EY1 S AH0 N D L EH1 F T N OW1 S T IH1 NG}|Low bush whipped him in the face and left no sting.|neutral
+amused_27-56_0043|josh|{IH0 T S IY1 M D N IH1 R ER0 T AH0 IH0 M S IH1 N S HH IY1 HH AE1 D S IY1 N AH0 N D T AO1 K T W IH0 TH G R EH1 G S AH0 N}|It seemed nearer to him since he had seen and talked with Gregson.|amused
+sleepiness_169-196_0174|bea|{DH EY1 W ER0 DH AH0 P R EH1 S IH0 JH AH1 V S T AO1 R M}|They were the presage of storm.|sleepiness
+neutral_169-196_0191|sam|{F ER0 AH0 T AY1 M DH IY0 IH0 K S AY1 T IH0 NG TH R IH1 L AH0 V HH IH0 Z AH0 D V EH1 N CH ER0 W AH1 Z G AO1 N}|For a time the exciting thrill of his adventure was gone.|neutral
+neutral_113-140_0122|bea|{T UW1 Y IH1 R Z AH0 G OW1 AY1 G EY1 V AH1 P S IH2 V AH0 L IH0 Z EY1 SH AH0 N F ER0 DH IH1 S}|Two years ago I gave up civilization for this.|neutral
+sleepiness_421-448_0445|jenie|{DH IY0 K R IY0 EY1 T IH0 V JH OY1 AY1 M ER1 M ER0 D}|The creative joy, I murmured.|sleepiness
+anger_225-252_0238|jenie|{IH0 T HH AE1 P AH0 N D T AH0 HH IH1 M AE1 T DH AH0 G AA0 L IY1 N AH0 S AH0 S AY1 AH0 T IY0 IH0 N OW1 K L AH0 N D W AH1 N AE2 F T ER0 N UW1 N}|It happened to him at the Gallina Society in Oakland one afternoon.|anger
+disgust_477-504_0498|sam|{DH AH0 L AY1 N Z W ER0 N AW1 V EH1 R IY0 T AO1 T}|The lines were now very taut.|disgust
+amused_74_84_0074|josh|{AE1 N D N AW1 D AW1 N DH EH1 R AY0 L IY1 N W AH1 Z W EY1 T IH0 NG F AO1 R IH0 M}|And now, down there, Eileen was waiting for him.|amused
+anger_1-28_0001|bea|{AO1 TH ER0 AH1 V DH AH0 D EY1 N JH ER0 T R EY1 L F IH1 L AH0 P S T IY1 L Z EH2 T S EH1 T ER0 AH0}|Author of the danger trail, Philip Steels, etc.|anger
+sleepiness_253-280_0274|jenie|{AH0 N D R AA0 UW1 L L IH1 S AH0 N D AH0 G EH1 N T AH0 DH AH0 T EY1 L AH0 V DH AH0 HH AW1 S}|And Raoul listened again to the tale of the house.|sleepiness
+neutral_367-392_0388|sam|{IH0 T W AH1 Z M AY1 AY0 D IY1 AH0 T UW1 AH0 T IY1}|It was my idea to a tee.|neutral
+amused_113-136_0131|jenie|{P R AA1 V AH0 D AH0 N S HH AE1 D D IH0 L IH1 V ER0 D HH IH1 M TH R UW1 DH AH0 M EY1 L S T R AH0 M}|Providence had delivered him through the maelstrom.|amused
+disgust_309-336_0335|bea|{R EH1 D AY1 S W AH1 NG B AE1 K AH0 N D F AO1 R TH AO1 N DH AH0 B R AE1 N CH F AA1 R DH ER0 D AW1 N}|Red-Eye swung back and forth on the branch farther down.|disgust
+disgust_253-280_0256|sam|{S IY1 DH AH0 L EH1 NG TH AH1 V DH AH0 B AA1 D IY0 AH0 N D DH AE1 T IH0 L AO1 NG G EY0 T AH0 D N EH1 K}|See the length of the body and that elongated neck.|disgust
+neutral_29-56_0046|jenie|{DH AH0 G ER1 L F EY1 S T HH IH1 M HH ER1 AY1 Z SH AY1 N IH0 NG W IH0 TH S AH1 D AH0 N F IH1 R}|The girl faced him, her eyes shining with sudden fear.|neutral
+anger_253-280_0255|sam|{Y UW1 W OW1 N T D AY1 AH0 V M AE2 L N UW0 T R IH1 SH AH0 N B IY0 SH UH1 R AH0 V DH AE1 T}|You won't die of malnutrition, be sure of that.|anger
+neutral_197-364_0247|jenie|{DH EY1 AO1 T T AH0 P AE1 S HH IY1 R S AH1 M T AY1 M T AH0 D EY1}|They ought to pass here some time today.|neutral
+neutral_1-28_0009|jenie|{HH IY1 T ER1 N D SH AA1 R P L IY0 AE1 N D F EY1 S T G R EH1 G S AH0 N AH0 K R AO1 S DH AH0 T EY1 B AH0 L}|He turned sharply, and faced Gregson across the table.|neutral
+sleepiness_449-476_0462|sam|{B AH1 T SH IY1 S W AH1 NG OW0 B IY1 D IY0 AH0 N T L IY0 AA1 N HH ER1 HH IY1 L IH0 N T UW1 DH AH0 W IH1 N D}|But she swung obediently on her heel into the wind.|sleepiness
+disgust_281-308_0299|sam|{AY1 T EH1 L Y UW1 AY1 EY1 EH1 M D IH0 S G AH1 S T AH0 D W IH0 DH DH IH0 S AH0 D V EH1 N CH ER0 T AA1 M F UW1 L ER0 IY0 AH0 N D R AA1 T}|I tell you I am disgusted with this adventure tomfoolery and rot.|disgust
+Disgust_169_196_0176|sam|{F ER0 DH AH0 F ER1 S T T AY1 M IH0 N HH IH0 Z L AY1 F HH IY1 W AH1 Z Y ER1 N IH0 NG F ER0 EY1 S K R AE1 P}|For the first time in his life he was yearning for a scrap.|disgust
+anger_113-140_0130|bea|{SH IY1 W AA1 Z HH IH1 Z N AW1 F ER0 EH1 V ER0}|She was his now, forever.|anger
+neutral_197-364_0276|jenie|{UW1 L AO0 NG AE1 T AO2 L W AH1 Z W AH1 N HH AH1 N D ER0 D AE1 N D F AO1 R T IY0 M AY1 L Z IH0 N S ER0 K AH1 M F R AH0 N S}|Oolong Atoll was one hundred and forty miles in circumference.|neutral
+sleepiness_113_140_0138|josh|{IH0 N DH AH0 P IH1 K CH ER0 HH IY1 S AO1 IY1 CH M OW1 M AH0 N T AH0 G R EY1 T ER0 R IH0 Z EH1 M B L AH0 N S T AH0 JH IY1 N}|In the picture he saw each moment a greater resemblance to Jeanne.|sleepiness
+amused_169-196_0192|sam|{HH IY1 D IH1 D N AA1 T R AH1 SH IH1 N}|He did not rush in.|amused
+Disgust_29-56_0035|sam|{HH IY1 S T AA1 P T AH0 N D F IH1 L AH0 P N AA1 D AH0 D AE1 T DH AH0 HH AO1 R AH0 F AY2 D K W EH1 S CH AH0 N IH0 N HH IH0 Z AY1 Z}|He stopped, and Philip nodded at the horrified question in his eyes.|disgust
+amused_336-364_0337|sam|{EH0 N K ER1 IH0 JH D B AY1 M AY1 K AA1 N D AH0 K T B IH1 G F EY1 S B IH0 K EY1 M AH0 S AH1 D AH0 N AE1 L AY0}|Encouraged by my conduct, Big-Face became a sudden ally.|amused
+neutral_113-140_0123|sam|{SH IY1 HH AE1 D D AY1 D F ER0 M K OW1 L D AH0 N D S T AA0 R V EY1 SH AH0 N}|She had died from cold and starvation.|neutral
+sleepiness_225-252_0236|jenie|{D OW1 N T Y UW1 S IY1 AY1 HH EY1 T Y UW1}|Don't you see I hate you.|sleepiness
+amused_1-28_0004|sam|{L AO1 R D B AH1 T AY1 M G L AE1 D T AH0 S IY1 Y UW1 AH0 G EH1 N F IH1 L}|Lord, but I'm glad to see you again, Phil.|amused
+sleepiness_85-112_0098|bea|{SH AE1 L AY1 K EH1 R IY0 Y UW1}|Shall I carry you.|sleepiness
+neutral_141-168_0149|bea|{F AO1 R AH0 N IH1 N S T AH0 N T HH IY1 S AO1 P IY0 EH1 R D R AO1 N L AY1 K AH0 S IH2 L AH0 W EH1 T AH0 G EH1 N S T DH AH0 S K AY1}|For an instant he saw Pierre drawn like a silhouette against the sky.|neutral
+anger_477-504_0499|jenie|{AE1 N D R AY1 T DH EH1 R AY1 S AO1 AE1 N D N Y UW1 IH0 T AO1 L}|And right there I saw and knew it all.|anger
+neutral_141-168_0167|josh|{AY1 W AH1 Z N IH1 R DH AH0 K AE1 B AH0 N AH0 N D S AO1 Y UW1}|I was near the cabin, and saw you.|neutral
+neutral_281-308_0307|sam|{V EH1 R IY0 ER1 L IY0 IH0 N M AY1 L AY1 F AY1 S EH1 P ER0 EY2 T IH0 D F ER0 M M AY1 M AH1 DH ER0}|Very early in my life, I separated from my mother.|neutral
+disgust_309-336_0319|bea|{AE1 N D DH IY0 EH1 D AH0 N B ER0 OW0 IY1 V N IH0 NG N Y UW1 Z S EH1 Z W IH0 TH EH2 D AH0 T AO1 R IY0 AH0 L G L UW1 M}|And the Edinburgh Evening News says, with editorial gloom.|disgust
+neutral_197-224_0209|bea|{IH0 T W AH1 Z N AA1 T AH0 L AA1 R JH L EY1 K AE1 N D AO1 L M OW2 S T R AW1 N D}|It was not a large lake, and almost round.|neutral
+amused_57-84_0057|sam|{AY1 HH AE1 V N OW1 AY0 D IY1 AH0 R IH0 P L AY1 D F IH1 L AH0 P}|I have no idea, replied Philip.|amused
+anger_1-28_0017|bea|{F ER0 M DH AE1 T M OW1 M AH0 N T HH IH1 Z F R EH1 N SH IH0 P F ER0 B EH0 L IY1 Z T ER1 N Z T AH0 HH EY1 T R AH0 D AE1 N D JH EH1 L AH0 S IY0}|From that moment his friendship for Belize turns to hatred and jealousy.|anger
+disgust_57-84_0069|bea|{IH1 T W AH1 Z HH IH1 Z IH0 N T EH1 N CH AH0 N T UW1 R IH0 T ER1 N T AH0 AY0 L IY1 N AE1 N D HH ER0 F AA1 DH ER0}|It was his intention to return to Eileen and her father.|disgust
+sleepiness_449-476_0457|jenie|{HH W AH1 T AY1 S AO1 AY1 K UH1 D N AA1 T AE1 T F ER1 S T B IH0 L IY1 V}|What I saw I could not at first believe.|sleepiness
+anger_309-336_0330|bea|{R EH1 D AY1 N EH1 V ER0 K AH0 M IH1 T AH0 D AH0 M AO1 R AW0 T R EY1 JH AH0 S D IY1 D}|Red-Eye never committed a more outrageous deed.|anger
+sleepiness_477-504_0487|bea|{DH AH0 R IH1 V ER0 B EH1 R D IH0 T S B UH1 Z AH0 M AH0 N D S N AO1 R T IH0 NG S T IY1 M B OW2 T S CH AE1 L AH0 N JH D DH AH0 W IH1 L D ER0 N AH0 S}|The river bared its bosom, and snorting steamboats challenged the wilderness.|sleepiness
+sleepiness_197-224_0207|bea|{HH AW1 M AH1 CH W AH1 Z IH0 T}|How much was it.|sleepiness
+disgust_169-196_0188|bea|{T UW1 JH AY0 G AE1 N T IH0 K AW1 L Z W ER0 T IH1 R IH0 NG AE1 T DH AH0 K AA1 R K AH0 S}|Two gigantic owls were tearing at the carcass.|disgust
+neutral_141-168_0151|josh|{AH0 N D M AH0 K D UW1 G AH0 L W AH1 Z B IY2 AO1 N D DH AH0 T R EY1 L W IH0 TH TH R IY1 W IY1 K S T AH0 S P EH1 R}|And MacDougall was beyond the trail, with three weeks to spare.|neutral
+neutral_253-280_0265|sam|{DH AH0 D IH0 S K AH1 V ER0 IY0 S IY1 M D T AH0 HH AE1 V B IH0 N M EY1 D AO1 N DH AH0 S P ER1 AH0 V DH AH0 M OW1 M AH0 N T}|The discovery seemed to have been made on the spur of the moment.|neutral
+sleepiness_141-168_0166|bea|{T UW1 D EY1 Z AH0 G OW1 JH IY1 N L ER1 N D HH W EH1 R HH ER0 F AA1 DH ER0 Z M EH1 N W ER0 HH AY1 D IH0 NG}|Two days ago Jeanne learned where her father's men were hiding.|sleepiness
+disgust_253-280_0257|jenie|{DH EY1 ER0 K AH1 M IH0 NG AH0 SH AO1 R HH UW0 EH1 V ER0 DH EY1 AA1 R}|They are coming ashore, whoever they are.|disgust
+sleepiness_225-252_0239|bea|{HH IY1 K R AY1 D IH1 N S AH1 CH JH EH1 N Y AH0 W AH0 N D IH0 S M EY1 DH AE1 T SH IY1 B R OW1 K IH0 N T AH0 HH AA1 R T IY0 L AE1 F T ER0}|He cried in such genuine dismay that she broke into hearty laughter.|sleepiness
+amused_281-308_0300|bea|{F R AH1 M M AY1 ER1 L IY0 AH0 S T R EH2 K AH0 L EH1 K SH AH0 N M AY1 S L IY1 P W AH1 Z AH0 P IH1 R IY0 AH0 D AH0 V T EH1 R ER0}|From my earliest recollection my sleep was a period of terror.|amused
+Disgust_57-84_0068|sam|{IH1 N EY1 F L AE1 SH F IH1 L AH0 P F AA1 L OW0 D IH0 T S D ER0 EH1 K SH AH0 N}|In a flash Philip followed its direction.|disgust
+neutral_281-308_0306|bea|{HH IY1 W AH1 Z P R EH1 S IH0 NG B IY2 AO1 N D DH AH0 L IH1 M AH0 T S AH0 V HH IH0 Z V OW0 K AE1 B Y AH0 L EH2 R IY0}|He was pressing beyond the limits of his vocabulary.|neutral
+sleepiness_1-28_0028|jenie|{R AA1 B ER0 IY0 B R AY1 B ER0 IY0 F R AO1 D}|Robbery, bribery, fraud,|sleepiness
+sleepiness_225-252_0250|josh|{HH IY1 HH AE1 D AH0 B Z ER1 V D DH AH0 B IH1 Z N AH0 S L AY1 F AH0 V HH AH0 W AY1 IY2 AH0 N D D IH0 V EH1 L AH0 P T AH0 V AO1 L T IH0 NG AE0 M B IH1 SH AH0 N}|He had observed the business life of Hawaii and developed a vaulting ambition.|sleepiness
+anger_57-84_0081|jenie|{W AH1 T IH1 F SH IY1 D IH0 D N AA1 T K AH1 M T AH0 DH AH0 R AA1 K}|What if she did not come to the rock.|anger
+neutral_367-392_0369|sam|{IH0 N P AA1 R T N ER0 SH IH2 P W IH0 TH D EY1 L AY2 T DH AH0 P EH1 R R EY1 D IH0 D DH AH0 S AE1 N HH OW2 Z EY1 IH2 N T ER0 ER1 B AH0 N}|In partnership with Daylight, the pair raided the San Jose Interurban.|neutral
+anger_169-196_0160|bea|{Y UW1 W AA1 N T T AH0 G OW1 OW1 V ER0 AH0 N D S IY1 HH IH1 Z G AE1 NG TH R OW1 D ER1 T}|You want to go over and see his gang throw dirt.|anger
+anger_421-448_0441|sam|{V AY1 L AH0 N T L AY1 F AH0 N D AE0 TH L EH1 T IH0 K S P AO1 R T S HH AE1 D N EH1 V ER0 AH0 P IY1 L D T AH0 M IY1}|Violent life and athletic sports had never appealed to me.|anger
+sleepiness_337-364_0355|bea|{AH0 B ER1 S T AH0 V L AE1 F T ER0 W AH1 Z HH IH0 Z R IH0 W AO1 R D}|A burst of laughter was his reward.|sleepiness
+sleepiness_367-392_0378|sam|{DH AE1 T S W AY1 IH0 T S B AW1 N D ER0 IY0 Z ER0 AO1 L G AW1 JH D AH0 N D JH AE1 G D}|That's why its boundaries are all gouged and jagged.|sleepiness
+neutral_253-280_0274|bea|{AE1 N D R AA0 UW1 L L IH1 S AH0 N D AH0 G EH1 N T AH0 DH AH0 T EY1 L AH0 V DH AH0 HH AW1 S}|And Raoul listened again to the tale of the house.|neutral
+neutral_141-168_0159|bea|{DH EY1 L UH1 K EH1 Z DH OW1 HH IY1 HH AE1 D B IH0 N D R AH1 M IH0 NG AH0 P IY0 AE1 N OW0 AO1 L HH IH0 Z L AY1 F}|They look as though he had been drumming a piano all his life.|neutral
+amused_253-280_0261|sam|{AY1 HH AE1 V B IH0 N D AH1 B L IY0 B AE1 P T AY2 Z D}|I have been doubly baptized.|amused
+neutral_253-280_0278|sam|{IH0 T W UH1 D G IH1 V M IY1 N ER1 V AH0 S P R AA0 S T R EY1 SH AH0 N}|It would give me nervous prostration.|neutral
+anger_169-196_0188|jenie|{T UW1 JH AY0 G AE1 N T IH0 K AW1 L Z W ER0 T EH1 R IH0 NG AE1 T DH AH0 K AA1 R K AH0 S}|Two gigantic owls were tearing at the carcass.|anger
+neutral_197-224_0220|josh|{AH0 D EH1 D M AE1 N IH0 Z AH0 V N OW1 Y UW1 S AO1 N AH0 P L AE2 N T EY1 SH AH0 N}|A dead man is of no use on a plantation.|neutral
+amused_225-252_0251|bea|{AY1 M EY1 M AE1 N IH0 JH T AH0 F R EY1 T AH0 K AA1 R G OW2 B AE1 K EH1 Z W EH1 L}|I may manage to freight a cargo back as well.|amused
+amused_141-168_0144|sam|{B AH1 T DH EH1 R W AH1 Z S AH1 M TH IH0 NG IY1 V IH0 N M AO1 R S T AA1 R T L IH0 NG DH AH0 N DH IH0 S R IH0 Z EH1 M B L AH0 N S}|But there was something even more startling than this resemblance.|amused
+amused_1-28_0006|josh|{G AA1 D B L EH1 S EH1 M AY1 HH OW1 P AY1 L G OW1 AO1 N S IY1 IH0 NG DH AH0 M F ER0 EH1 V ER0}|God bless 'em, I hope I'll go on seeing them forever.|amused
+amused_141_168_0168|bea|{L OW1 B UH1 SH W IH1 P T HH IH1 M IH0 N DH AH0 F EY1 S AE1 N D L EH1 F T N OW1 S T IH1 NG}|Low bush whipped him in the face and left no sting.|amused
+amused_281-308_0288|sam|{DH OW1 Z AA1 R M AY1 OY1 S T ER0 Z HH IY1 S EH1 D AE1 T L AE1 S T}|Those are my oysters, he said at last.|amused
+sleepiness_225-252_0248|bea|{AY1 HH AE1 D B IH0 N S AE1 D T UW1 L AO1 NG AO0 L R EH1 D IY0}|I had been sad too long already.|sleepiness
+sleepiness_365-392_0387|jenie|{B AA1 B G R OW1 IH0 NG D IH0 S G AH1 S T IH0 D T ER1 N D B AE1 K S AH1 D AH0 N L IY0 AH0 N D AH0 T EH1 M P T AH0 D T AH0 P AE1 S M AE1 B}|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.|sleepiness
+disgust_85-112_0097|bea|{DH EH1 N Y UW1 K AE1 N ER0 EY1 N JH Y UH0 R S EH1 L F K AH1 M F ER0 T AH0 B L IY0 AH0 M AH1 NG DH IY1 Z R OW1 B Z IH0 N DH AH0 B AW1}|Then you can arrange yourself comfortably among these robes in the bow.|disgust
+amused_57-84_0080|bea|{W AH1 T IH1 F JH IY1 N F EY1 L D HH IH1 M}|What if Jeanne failed him.|amused
+sleepiness_225-252_0227|bea|{IH0 T W AA1 Z DH AH0 S EY1 M W EY1 W IH1 TH AA1 R R IH0 V AA1 L V ER0 Z AH0 N D R AY1 F AH0 L Z}|It was the same way with our revolvers and rifles.|sleepiness
+amused_252-280_0279|josh|{SH IY1 S EH1 D W IH0 TH CH AE1 T ER0 IH0 NG T IY1 TH}|She said with chattering teeth.|amused
+disgust_309-336_0324|bea|{IH1 T W AH1 Z N AA1 T R EH1 D AY1 EH1 S W EY1 T AH0 F AO0 R G OW1 R IY0 V EH1 N JH S OW1 IY1 Z AH0 L IY0}|It was not Red-Eye's way to forego revenge so easily.|disgust
+neutral_85-112_0090|sam|{DH AH0 S IH1 NG IH0 NG V OY1 S AH0 P R OW1 CH T R AE1 P AH0 D L IY0}|The singing voice approached rapidly.|neutral
+neutral_225-252_0234|josh|{HH W AY1 DH IY0 AE1 V R IH0 JH R IY2 V Y UW1 IH0 Z M AO1 R N AO1 ZH IY0 EY2 T IH0 NG DH AH0 N K AA1 D L IH1 V ER0 OY1 L}|Why, the average review is more nauseating than cod liver oil.|neutral
+disgust_477-504_0482|sam|{AE1 N D DH EH1 R CH IY1 F V ER1 CH UW0 L AY1 Z IH0 N DH AE1 T DH EY1 W AH0 L N EH1 V ER0 W EH1 R AW1 T}|And their chief virtue lies in that they will never wear out.|disgust
+disgust_253-280_0269|jenie|{DH AE1 T S W EH1 R DH EY1 K AH1 T AO1 F DH AH0 S K AA1 T IH0 SH CH IY1 F S AE1 N D K IH1 L D AO1 L HH AE1 N D Z}|That's where they cut off the Scottish Chiefs and killed all hands.|disgust
+disgust_393-420_0396|jenie|{AH0 R AY1 Z IH0 NG T AY1 D AH1 V F AE1 T HH AE1 D S AH0 B M ER1 JH D DH EH1 M}|A rising tide of fat had submerged them.|disgust
+anger_113-140_0134|sam|{HH IY1 OW0 B EY1 D DH AH0 P R EH1 SH ER0 AH0 V HH ER0 HH AE1 N D}|He obeyed the pressure of her hand.|anger
+amused_309-336_0323|jenie|{HH IY1 K AH0 N S IH1 D ER0 D DH AH0 V IH1 K T ER0 IY0 AO0 L R EH1 D IY0 HH IH1 Z AH0 N D S T EH1 P T F AO1 R W ER0 D T AH0 DH AH0 M IY1 T}|He considered the victory already his and stepped forward to the meat.|amused
+neutral_253-280_0254|sam|{S T R EY1 T AW1 T DH EY1 S W AE1 M DH EH1 R HH EH1 D Z G R OW1 IH0 NG S M AO1 L ER0 AH0 N D S M AO1 L ER0}|Straight out they swam, their heads growing smaller and smaller.|neutral
+sleepiness_421-448_0434|jenie|{AH0 HH AE1 F AH0 K EY1 S AH0 V T AH0 B AE1 K OW2 W AH1 Z W ER1 TH TH R IY1 P AW1 N D Z}|A half a case of tobacco was worth three pounds.|sleepiness
+anger_57-84_0072|jenie|{B AH1 T HH UW1 W AH1 Z AY0 L IY1 N Z D AH1 B AH0 L}|But who was Eileen's double.|anger
+amused_27-56_0040|josh|{AY1 S AH0 P OW1 Z Y UW1 W AH1 N D ER0 W AY1 SH IY1 IH0 Z K AH1 M IH0 NG AH1 P HH IY1 R}|I suppose you wonder why she is coming up here.|amused
+Disgust_29-56_0047|sam|{K L OW1 S B IH0 S AY1 D HH IH1 M G L IY1 M D DH AH0 W AY1 T F AE1 NG Z AH1 V DH AH0 W UH1 L F D AO1 G}|Close beside him gleamed the white fangs of the wolf-dog.|disgust
+sleepiness_449-476_0475|bea|{HH IH0 Z AW0 T S T R EH1 CH T AA1 R M D R AA1 P T T UW1 HH IH0 Z S AY1 D AE1 N D HH IY1 P AO1 Z D}|His outstretched arm dropped to his side, and he paused.|sleepiness
+anger_1-28_0014|bea|{N AW1 Y UH1 R K AH1 M IH0 NG D AW1 N T AH0 B IH1 Z N AH0 S F IH1 L HH IY1 IH0 K S K L EY1 M D}|Now you're coming down to business, Phil, he exclaimed.|anger
+neutral_197-364_0288|jenie|{DH OW1 Z AA1 R M AY1 OY1 S T ER0 Z HH IY1 S EH1 D AE1 T L AE1 S T}|Those are my oysters, he said at last.|neutral
+amused_29-56_0032|jenie|{S IH1 N S DH EH1 N S AH1 M M IH0 S T IH1 R IY0 AH0 S F AO1 R S HH AE1 Z B IH0 N F AY1 T IH0 NG AH1 S AE1 T EH1 V R IY0 S T EH1 P}|Since then some mysterious force has been fighting us at every step.|amused
+sleepiness_421-448_0422|jenie|{HH AE1 F W EY1 ER0 AW1 N D DH AH0 T R AE1 K W AH1 N D AA1 NG K IY0 G AA1 T IH0 N T AH0 AH0 N AA1 R G Y AH0 M AH0 N T W IH0 TH IH0 T S R AY1 D ER0}|Halfway around the track one donkey got into an argument with its rider.|sleepiness
+disgust_225-252_0243|bea|{AY1 OW1 N L IY0 R IY1 D DH AH0 K W OW0 T EY1 SH AH0 N Z}|I only read the quotations.|disgust
+sleepiness_365-392_0384|jenie|{DH AH0 F AA1 R M ER0 W ER1 K S DH AH0 S OY1 L AE1 N D P R AH0 D UW1 S IH0 Z G R EY1 N}|The farmer works the soil and produces grain.|sleepiness
+anger_1-28_0026|sam|{IH0 T AH0 K ER1 D T UW1 M IY1 DH AE1 T DH EH1 R W UH1 D HH AE1 V T AH0 B IY1 AE1 N AH0 K AW1 N T IH0 NG}|It occurred to me that there would have to be an accounting.|anger
+neutral_197-364_0232|jenie|{AY1 K AE1 N AA0 T F AA1 L OW0 Y UW1 SH IY1 S EH1 D}|I cannot follow you, she said.|neutral
+amused_449-476_0470|jenie|{HH IY1 S P AE1 T IH0 T AW1 T L AY1 K S OW1 M AH1 CH V EH1 N AH0 M}|He spat it out like so much venom.|amused
+amused_449-476_0455|jenie|{AY1 OW0 B EY1 D AH0 N D AH0 M AY0 N Y UW1 T AO1 R T UW1 L EY1 T ER0 DH EY1 S T UH1 D B IY2 F AO1 R IH0 M}|I obeyed, and a minute or two later they stood before him.|amused
+Disgust_141-168_0164|sam|{HH IY1 K EY1 M F ER1 S T AH0 Y IH1 R AH0 G OW1 AE1 N D R IH0 V IY1 L D HH IH0 M S EH1 L F T AH0 JH IY1 N}|He came first a year ago, and revealed himself to Jeanne.|disgust
+neutral_141-168_0149|josh|{F ER0 AH0 N IH1 N S T AH0 N T HH IY1 S AO1 P IY0 EH1 R D R AO1 N L AY1 K AH0 S IH2 L AH0 W EH1 T AH0 G EH1 N S T DH AH0 S K AY1}|For an instant he saw Pierre drawn like a silhouette against the sky.|neutral
+sleepiness_225-252_0233|bea|{AY1 N EH1 V ER0 AH0 L AW1 W AH1 T K AE1 N T B IY1 CH EY1 N JH D T UW1 AH0 N OY1 M IY1}|I never allow what can't be changed to annoy me.|sleepiness
+amused_477-504_0504|sam|{HH IY1 W AH1 Z AH0 N AE1 TH L IY2 T AE1 N D AH0 JH AY1 AH0 N T}|He was an athlete and a giant.|amused
+anger_29-56_0029|sam|{DH EH1 R F AO1 R S IH0 Z W ER0 AO0 L R EH1 D IY0 M UW1 V IH0 NG IH0 N T AH0 DH AH0 N AO1 R TH K AH1 N T R IY0}|Their forces were already moving into the north country.|anger
+neutral_225-252_0248|josh|{AY1 HH AE1 D B IH0 N S AE1 D T UW1 L AO1 NG AO0 L R EH1 D IY0}|I had been sad too long already.|neutral
+disgust_141-168_0143|jenie|{AA1 AY1 HH AE1 D F ER0 G AA1 T AH0 N HH IY1 IH0 K S K L EY1 M D}|Ah, I had forgotten, he exclaimed.|disgust
+anger_281-308_0287|sam|{K IY1 P AH0 N AY1 AA1 N HH IH1 M}|Keep an eye on him.|anger
+anger_197-224_0204|sam|{DH AH0 W UH1 L F D AO1 G TH R AH1 S T HH IH0 Z G AO1 N T M AH1 Z AH0 L T AO1 R D HH IH1 M}|The wolf-dog thrust his gaunt muzzle toward him.|anger
+amused_1-28_0007|sam|{AH0 N D Y UW1 AO1 L W EY2 Z W AA1 N T T AH0 S IY1 IH0 T IH0 N DH AH0 S UH0 P ER1 L AH0 T IH0 V D IH0 G R IY1}|And you always want to see it in the superlative degree.|amused
+sleepiness_365-392_0368|bea|{AY1 JH IH0 S T D UW1 AH0 P R IY1 SH IY0 EY2 T IH0 T W IH0 TH AW1 T B IY1 IH0 NG EY1 B AH0 L T AH0 IH0 K S P R EH1 S M AY1 F IY1 L IH0 NG Z}|I just do appreciate it without being able to express my feelings.|sleepiness
+amused_29-45_0032|bea|{S IH1 N S DH EH1 N S AH1 M M IH0 S T IH1 R IY0 AH0 S F AO1 R S HH AE1 Z B IH0 N F AY1 T IH0 NG AH1 S AE1 T EH1 V R IY0 S T EH1 P}|Since then some mysterious force has been fighting us at every step.|amused
+neutral_421-448_0425|sam|{AH1 DH ER0 W AY2 Z N OW1 R IY0 S T R IH1 K SH AH0 N IH0 Z P UH1 T AH0 P AA1 N DH EH1 R S IY1 F EH2 R IH0 NG}|Otherwise no restriction is put upon their seafaring.|neutral
+sleepiness_367-392_0366|sam|{AH0 W AY1 L D L IY0 IH0 K S AY1 T IH0 NG T AY1 M W AH1 Z HH IH0 Z D UH1 R IH0 NG DH AH0 W IY1 K P R IY0 S IY1 D IH0 NG TH ER1 Z D IY0 DH IY0 EY1 T IY1 N TH}|A wildly exciting time was his during the week preceding Thursday the eighteenth.|sleepiness
+amused_113-140_0130|sam|{SH IY1 W AH1 Z HH IH0 Z N AW1 F ER0 EH1 V ER0}|She was his now, forever.|amused
+sleepiness_309-336_0315|bea|{S AE1 K S AH0 N W EY1 T IH0 D F ER0 SH IY1 N Y UW1 AH0 F R EH1 SH AY0 D IY1 AH0 HH AE1 D S T R AH1 K B IH1 L IY0}|Saxon waited, for she knew a fresh idea had struck Billy.|sleepiness
+sleepiness_309-336_0326|bea|{CH EH1 R AH0 K IY2 AY0 D EH1 N T AH0 F AY2 D HH IH0 M S EH1 L F W IH0 TH HH IH0 Z IH1 N S T IH0 NG K T}|Cherokee identified himself with his instinct.|sleepiness
+sleepiness_1-28_0009|jenie|{HH IY1 T ER1 N D SH AA1 R P L IY0 AE1 N D F EY1 S T G R EH1 G S AH0 N AH0 K R AO1 S DH AH0 T EY1 B AH0 L}|He turned sharply, and faced Gregson across the table.|sleepiness
+amused_309-336_0319|sam|{AE1 N D DH IY0 EH1 D AH0 N B ER0 OW0 IY1 V N IH0 NG N Y UW1 Z S EH1 Z W IH0 DH EH2 D AH0 T AO1 R IY0 AH0 L G L UW1 M}|And the Edinburgh Evening News says, with editorial gloom.|amused
+sleepiness_29-56_0031|sam|{DH EY1 W ER0 TH R IY1 HH AH1 N D R AH0 D Y AA1 R D Z AH0 P AA1 R T}|They were three hundred yards apart.|sleepiness
+anger_225-252_0228|jenie|{B AH1 T IH1 T K AH0 N T R IH1 B Y UW0 T IH0 D T AH0 DH AH0 S M AE1 SH}|But it contributed to the smash.|anger
+amused_169-196_0188|bea|{T UW1 JH AY0 G AE1 N T IH0 K AW1 L Z W ER0 T EH1 R IH0 NG AE1 T DH AH0 K AA1 R K AH0 S}|Two gigantic owls were tearing at the carcass.|amused
+neutral_337-364_0343|bea|{Y UW1 M IY1 N F ER0 DH IH0 S S T EY1 T JH EH1 N R AH0 L AE0 L B ER1 T AH0}|You mean for this State, General, Alberta.|neutral
+amused_253-280_0258|sam|{S OW1 K T IH0 N S IY1 W AA2 T ER0 DH EY1 AO0 F S EH1 T DH AH0 HH IY1 T R EY1 Z}|Soaked in seawater they offset the heat rays.|amused
+sleepiness_281-308_0307|sam|{V EH1 R IY0 ER1 L IY0 IH0 N M AY1 L AY1 F AY1 S EH1 P ER0 EY2 T AH0 D F ER0 M M AY1 M AH1 DH ER0}|Very early in my life, I separated from my mother.|sleepiness
+neutral_113-140_0124|sam|{IH0 T W AH1 Z JH IY1 N S IH1 NG IH0 NG S AO1 F T L IY0 OW1 V ER0 B IY2 AO1 N D DH AH0 R AA1 K S}|It was Jeanne singing softly over beyond the rocks.|neutral
+sleepiness_57-84_0062|bea|{DH AH0 M EH1 N S T EH1 R D IH1 N T UW0 IY1 CH AH1 DH ER0 Z F EY1 S}|The men stared into each other's face.|sleepiness
+amused_1-28_0011|josh|{IH0 F AY1 EH1 V ER0 N IY1 D IH0 D AH0 F AY1 T ER0 IH0 N M AY1 L AY1 F AY1 N IY1 D W AH1 N N AW1}|If I ever needed a fighter in my life I need one now.|amused
+neutral_141-168_0145|josh|{AY1 HH AE1 V T AH0 B IY0 K EH1 R F AH0 L AH0 V DH AH0 M EH1 Z DH EY1 T EH1 R V EH1 R IY0 IY1 Z AH0 L IY0}|I have to be careful of them, as they tear very easily.|neutral
+sleepiness_197-224_0199|jenie|{DH AH1 S HH AE1 D DH AH0 R AA1 W IH1 L D ER0 N AH0 S P R IY0 P EH1 R D HH IH1 M F ER0 DH IH0 S D EY1}|Thus had the raw wilderness prepared him for this day.|sleepiness
+sleepiness_281-308_0301|sam|{B AH1 T AO1 L M AY1 D R IY1 M Z V AY1 AH0 L EY0 T IH0 D DH IH0 S L AO1}|But all my dreams violated this law.|sleepiness
+sleepiness_169_196_0196|sam|{HH IY1 B IY0 G AE1 N T AH0 F AA1 L OW0 DH AH0 F UH1 T P R IH2 N T S AH1 V DH AH0 D AO1 G}|He began to follow the footprints of the dog.|sleepiness
+sleepiness_113-140_0121|jenie|{DH EY1 EY1 T D IH1 N ER0 AE1 T DH AH0 F IH1 F TH AH0 N D R EH1 S T AH0 D F ER0 T UW1 AW1 ER0 Z}|They ate dinner at the fifth, and rested for two hours.|sleepiness
+neutral_57-84_0075|jenie|{DH EH1 R HH AE1 Z B IH0 N AH0 CH EY1 N JH SH IY1 IH2 N T ER0 AH1 P T IH0 D HH IH1 M}|There has been a change, she interrupted him.|neutral
+sleepiness_393-420_0403|bea|{HH IH0 Z N UW1 B AO0 R N K AH1 N IH0 NG G EY1 V HH IH1 M P OY1 Z AH0 N D K AH0 N T R OW1 L}|His newborn cunning gave him poise and control.|sleepiness
+amused_225_252_0233|josh|{AY1 N EH1 V ER0 AH0 L AW1 W AH1 T K AE1 N T B IY0 CH EY1 N JH D T UW1 AH0 N OY1 M IY1}|I never allow what can't be changed to annoy me.|amused
+anger_169-196_0149|bea|{F ER0 AH0 N IH1 N S T AH0 N T HH IY1 S AO1 P IY0 EH1 R D R AO1 N L AY1 K AH0 S IH2 L AH0 W EH1 T AH0 G EH1 N S T DH AH0 S K AY1}|For an instant he saw Pierre drawn like a silhouette against the sky.|anger
+sleepiness_169-196_0170|jenie|{DH EH1 R W AH1 Z N AH1 N AH1 V DH AH0 JH OY1 AH0 V M IY1 T IH0 NG IH0 N HH IH1 Z F EY1 S}|There was none of the joy of meeting in his face.|sleepiness
+disgust_281-308_0295|sam|{AE1 N D T W EH1 N T IY0 M EH1 N K UH1 D HH OW1 L D IH0 T W IH0 TH S P IH1 R Z AH0 N D EH1 R OW0 Z}|And twenty men could hold it with spears and arrows.|disgust
+sleepiness_197-224_0210|bea|{IH0 T S D AY0 AE1 M AH0 T ER0 W AH1 Z N AA1 T M AO1 R DH AH0 N T UW1 HH AH1 N D ER0 D Y AA1 R D Z}|Its diameter was not more than two hundred yards.|sleepiness
+sleepiness_393-420_0418|jenie|{DH AH0 P AO1 R CH AH0 G IY2 Z B OY1 K R AO1 L D N IH1 R ER0 AE1 N D N IH1 R ER0}|The Portuguese boy crawled nearer and nearer.|sleepiness
+amused_169-196_0190|sam|{N EH1 K S T T AH0 DH EH1 M DH AH0 K AE1 N AH0 D AH0 JH EY1 Z W ER0 M OW1 S P ER0 S IH1 S T AH0 N T}|Next to them the Canada jays were most persistent.|amused
+sleepiness_169-196_0184|josh|{D OW1 N T Y UW1 S IY1 AY1 M CH UW1 IH0 NG DH IH0 S TH IH1 NG IH0 N T UW1}|Don't you see, I'm chewing this thing in two.|sleepiness
+disgust_309-336_0326|bea|{CH EH1 R AH0 K IY2 AY0 D EH1 N T AH0 F AY2 D HH IH0 M S EH1 L F W IH0 TH HH IH1 Z IH1 N S T IH0 NG K T}|Cherokee identified himself with his instinct.|disgust
+amused_141-168_0159|sam|{DH EY1 L UH1 K EH1 Z DH OW1 HH IY1 HH AE1 D B IH0 N D R AH1 M IH0 NG AH0 P IY0 AE1 N OW0 AO1 L HH IH0 Z L AY1 F}|They look as though he had been drumming a piano all his life.|amused
+anger_113-140_0140|jenie|{AH0 K S EH1 P T AH0 F AA1 DH ER0 Z B L EH1 S IH0 NG AE1 N D W IH1 TH IH1 T DH IH1 S}|Accept a father's blessing, and with it, this.|anger
+sleepiness_169_196_0188|sam|{T UW1 JH AY0 G AE1 N T IH0 K AW1 L Z W ER0 T EH1 R IH0 NG AE1 T DH AH0 K AA1 R K AH0 S}|Two gigantic owls were tearing at the carcass.|sleepiness
+amused_1-28_0012|josh|{G R EH1 G S AH0 N SH AH1 V D B AE1 K HH IH0 Z CH EH1 R AH0 N D R OW1 Z T UW1 HH IH0 Z F IY1 T}|Gregson shoved back his chair and rose to his feet.|amused
+sleepiness_169-196_0173|bea|{DH AH0 D EY1 T W AH1 Z N IH1 R L IY0 EY1 T IY1 N Y IH1 R Z OW1 L D}|The date was nearly eighteen years old.|sleepiness
+amused_29-56_0044|sam|{HH ER1 OW1 N B IH0 T R EY1 AH0 L AH0 V HH ER0 S EH1 L F W AH1 Z L AY1 K T AA1 N IH0 K T AH0 F IH1 L AH0 P}|Her own betrayal of herself was like tonic to Philip.|amused
+Disgust_1-28_0021|sam|{IH1 T F EH1 R L IY0 K L AH1 B D M IY1 IH0 N T AH0 R EH1 K AH0 G N AY2 Z IH0 NG IH0 T}|It fairly clubbed me into recognizing it.|disgust
+neutral_281-308_0294|sam|{HH IY1 HH AE1 D B IH0 N F OY1 L D IH0 N HH IH0 Z AH0 T EH1 M P T T UW1 IH0 S K EY1 P}|He had been foiled in his attempt to escape.|neutral
+sleepiness_309-336_0330|bea|{R EH1 D AY1 N EH1 V ER0 K AH0 M IH1 T AH0 D AH0 M AO1 R AW0 T R EY1 JH AH0 S D IY1 D}|Red-Eye never committed a more outrageous deed.|sleepiness
+amused_449-476_0467|jenie|{AH0 N D S OW1 ER1 L IY0 IH1 N DH AH0 V OY1 IH0 JH T UW1}|And so early in the voyage, too.|amused
+sleepiness_367-392_0391|sam|{B AH1 T HH IY1 R EH1 K AH0 N S AY2 L D HH IH0 M S EH1 L F T UW1 IH0 T B AY1 AH0 N AE1 K T AH0 V F EY1 TH}|But he reconciled himself to it by an act of faith.|sleepiness
+anger_336-364_0362|sam|{N OW1 P N AA1 T DH AH0 S L AY1 T AH0 S T AY0 D IY1 AH0}|Nope, not the slightest idea.|anger
+anger_1-28_0014|jenie|{N AW1 Y UH1 R K AH1 M IH0 NG D AW1 N T AH0 B IH1 Z N AH0 S F IH1 L HH IY1 IH0 K S K L EY1 M D}|Now you're coming down to business, Phil, he exclaimed.|anger
+sleepiness_225-252_0248|sam|{AY1 HH AE1 D B IH0 N S AE1 D T UW1 L AO1 NG AO0 L R EH1 D IY0}|I had been sad too long already.|sleepiness
+sleepiness_281-308_0300|sam|{F R AH1 M M AY1 ER1 L IY0 AH0 S T R EH2 K AH0 L EH1 K SH AH0 N M AY1 S L IY1 P W AH1 Z AH0 P IH1 R IY0 AH0 D AH1 V T EH1 R ER0}|From my earliest recollection my sleep was a period of terror.|sleepiness
+amused_113-140_0133|josh|{F IH1 L AH0 P B IH0 G AE1 N T AH0 F IY1 L DH AH0 T HH IY1 HH AE1 D F UW1 L IH0 SH L IY0 OW2 V ER0 EH1 S T AH0 M EY2 T IH0 D HH IH0 Z S T R EH1 NG K TH}|Philip began to feel that he had foolishly overestimated his strength.|amused
+sleepiness_309-336_0310|bea|{M AH0 S AA1 ZH AH1 N D ER0 T EH1 N SH AH0 N W AH1 Z DH AH0 K R IH1 P T IH0 K R IH0 P L AY1}|Massage under tension, was the cryptic reply.|sleepiness
+neutral_169-196_0187|bea|{AH0 HH EH1 D AH0 V DH EH1 M DH EY1 S AO1 AH0 G L IH1 M ER0 AH0 V S AH1 N SH AY2 N}|Ahead of them they saw a glimmer of sunshine.|neutral
+neutral_141-168_0148|bea|{N AW1 DH IY1 Z TH IH1 NG Z HH AE1 D B IH0 N S T R AH1 K D EH1 D W IH0 TH IH1 N HH IH1 M}|Now these things had been struck dead within him.|neutral
+anger_29-56_0054|sam|{DH EH1 R W AH1 Z N AH1 TH IH0 NG AA1 N DH AH0 R AA1 K}|There was nothing on the rock.|anger
+sleepiness_113_140_0115|josh|{HH IY1 HH AE1 D N OW1 IH0 K S K Y UW1 Z F ER0 DH AH0 F IY1 L IH0 NG Z W IH1 CH W ER0 ER0 AW1 Z D IH0 N HH IH1 M}|He had no excuse for the feelings which were aroused in him.|sleepiness
+sleepiness_141-168_0148|bea|{N AW1 DH IY1 Z TH IH1 NG Z HH AE1 D B IH0 N S T R AH1 K D EH1 D W IH0 TH IH1 N HH IH1 M}|Now these things had been struck dead within him.|sleepiness
+neutral_253-280_0274|sam|{AE1 N D R AA0 UW1 L L IH1 S AH0 N D AH0 G EH1 N T AH0 DH AH0 T EY1 L AH1 V DH AH0 HH AW1 S}|And Raoul listened again to the tale of the house.|neutral
+neutral_197-364_0332|jenie|{AH2 N K AA1 N SH AH0 S L IY0 AA1 R Y EH1 L Z AH0 N D EH2 K S K L AH0 M EY1 SH AH0 N Z Y IY1 L D IH0 D T AH0 DH IH0 S R IH1 DH AH0 M}|Unconsciously, our yells and exclamations yielded to this rhythm.|neutral
+anger_421-448_0448|jenie|{AY1 W AH1 Z HH AH1 M P K AE1 B AH0 N B OY1 AA1 N DH AH0 S K UW1 N ER0 G OW1 S T}|I was Hump, cabin boy on the schooner Ghost.|anger
+neutral_29-56_0032|josh|{S IH1 N S DH EH1 N S AH1 M M IH0 S T IH1 R IY0 AH0 S F AO1 R S HH AE1 Z B IH0 N F AY1 T IH0 NG AH1 S AE1 T EH1 V R IY0 S T EH1 P}|Since then some mysterious force has been fighting us at every step.|neutral
+amused_252-280_0262|josh|{DH EY1 W UH1 D AH0 N T B IY0 S W IY1 P IH0 NG AH0 B IH1 G V EH1 S AH0 L L AY1 K DH AH0 M AA1 R TH AH0}|They wouldn't be sweeping a big vessel like the Martha.|amused
+sleepiness_197-224_0216|jenie|{DH IY0 AH1 DH ER0 F EH1 L T AH0 S AH1 D AH0 N W EY1 V AH0 V IH2 R IH0 T EY1 SH AH0 N R AH1 SH TH R UW1 HH IH1 M}|The other felt a sudden wave of irritation rush through him.|sleepiness
+amused_225-252_0230|bea|{D UW1 Y UW1 N OW1 EH1 N IY0 G UH1 D L AE1 N D ER0 AW1 N D HH IY1 R}|Do you know any good land around here.|amused
+anger_169-196_0184|jenie|{D OW1 N T Y UW1 S IY1 AY1 M CH UW1 IH0 NG DH IH1 S TH IH1 NG IH0 N T UW1}|Don't you see, I'm chewing this thing in two.|anger
+disgust_309-336_0336|bea|{S OW1 AH2 N IH0 K S P EH1 K T IH0 D W AH1 Z M AY1 CH AA1 R JH DH AH0 T AY1 N AA1 K T IH0 M AO1 F HH IH0 Z F IY1 T}|So unexpected was my charge that I knocked him off his feet.|disgust
+sleepiness_336-364_0353|sam|{HH IY1 R DH AH0 IH0 K S P L OW1 ZH AH0 N AH0 V M ER1 TH D R AW1 N D IH0 M AW1 T}|Here the explosion of mirth drowned him out.|sleepiness
+neutral_253-280_0275|josh|{DH EH1 R ER0 N OW1 K IH1 D IY0 Z AH0 N D HH AE1 F G R OW1 N Y UW1 TH S AH0 M AH1 NG DH AH0 M}|There are no kiddies and half grown youths among them.|neutral
+sleepiness_449-476_0458|sam|{DH AH0 S T AW1 T W UH1 D W AH1 Z K R AH1 SH T L AY1 K AH0 N EH1 G SH EH2 L}|The stout wood was crushed like an eggshell.|sleepiness
+sleepiness_29-56_0037|josh|{AY1 W AH1 Z DH IY0 OW1 N L IY0 W AH1 N HH UW1 R IH0 M EY1 N D S IH1 T IH0 NG}|I was the only one who remained sitting.|sleepiness
+disgust_477-504_0502|sam|{EH1 N IY0 TH IH2 NG AH0 N Y UW1 ZH UW2 AH0 L AO1 R AE0 B N AO1 R M AH0 L W AH1 Z S AH0 F IH1 SH AH0 N T T AH0 S EH1 N D AH0 F EH1 L OW0 T AH0 M AA1 L AH0 K AY2}|Anything unusual or abnormal was sufficient to send a fellow to Molokai.|disgust
+neutral_1-28_0011|josh|{IH0 F AY1 EH1 V ER0 N IY1 D IH0 D AH0 F AY1 T ER0 IH0 N M AY1 L AY1 F AY1 N IY1 D W AH1 N N AW1}|If I ever needed a fighter in my life I need one now.|neutral
+amused_85-112_0106|josh|{DH AH0 IH0 M OW1 SH AH0 N W IH1 CH SH IY1 HH AE1 D S AH0 P R EH1 S T B ER1 S T F AO1 R TH N AW1 IH0 N AH0 CH OW1 K IH0 NG S AA1 B}|The emotion which she had suppressed burst forth now in a choking sob.|amused
+sleepiness_169-196_0189|bea|{DH AH0 B IH1 G AY1 D K L AH1 K IH0 NG M UW1 S B ER1 D Z W ER0 M OW1 S T AH0 N OY1 IH0 NG}|The big-eyed, clucking moose-birds were most annoying.|sleepiness
+Disgust_113-140_0139|sam|{HH IY1 T OW1 L D HH IH0 M S EH1 L F DH AE1 T EH1 Z HH IY1 W AA1 SH T HH IH0 M S EH1 L F AE1 N D G R UW1 M D HH IH0 Z D IH0 SH EH1 V AH0 L D K L OW1 Z}|He told himself that as he washed himself and groomed his disheveled clothes.|disgust
+neutral_141-168_0167|bea|{AY1 W AH1 Z N IH1 R DH AH0 K AE1 B AH0 N AE1 N D S AO1 Y UW1}|I was near the cabin, and saw you.|neutral
+sleepiness_253-280_0270|jenie|{AE1 N D AE1 F T ER0 DH AH0 B AE1 TH AH0 SH EY1 V W UH1 D N AA1 T B IY0 B AE1 D}|And after the bath a shave would not be bad.|sleepiness
+sleepiness_365-392_0370|bea|{HH IY1 S AO1 AO1 L M EH1 N IH0 N DH AH0 B IH1 Z N AH0 S G EY1 M D UW1 IH0 NG DH IH1 S}|He saw all men in the business game doing this.|sleepiness

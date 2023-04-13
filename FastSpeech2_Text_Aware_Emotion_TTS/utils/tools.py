@@ -15,6 +15,7 @@ matplotlib.use("Agg")
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
+
 def to_device(data, device):
     if len(data) == 13:
         (
@@ -72,7 +73,9 @@ def to_device(data, device):
         (ids, raw_texts, speakers, texts, src_lens, max_src_len, emotions) = data
 
         speakers = torch.from_numpy(speakers).long().to(device)
-        emotions = torch.from_numpy(emotions).long().to(device)
+        # emotions = torch.from_numpy(emotions).long().to(device)
+        emotions = emotions
+        # print(f'emotions from tools: ---- {emotions}')
         texts = torch.from_numpy(texts).long().to(device)
         src_lens = torch.from_numpy(src_lens).to(device)
 
@@ -334,3 +337,22 @@ def pad(input_ele, mel_max_length=None):
         out_list.append(one_batch_padded)
     out_padded = torch.stack(out_list)
     return out_padded
+
+def get_roberta_emotion_embeddings(tokenizer, model, text):
+    model.to(device)
+    tokenized_input = tokenizer(text, padding='max_length', max_length=128, truncation=True, return_tensors="pt")
+    input_ids = tokenized_input['input_ids'].to(model.device)
+    attention_mask = tokenized_input['attention_mask'].to(model.device)
+
+    emotions = "amused", "anger", "disgust", "neutral", "sleepiness"
+    with torch.no_grad():
+        outputs = model(input_ids, attention_mask=attention_mask)
+        embeddings = outputs.logits
+
+        # get the index of the predicted emotion
+        emotion_index = torch.argmax(embeddings, dim=1).item()
+
+         # get the corresponding emotion from the list
+        predicted_emotion = emotions[emotion_index]
+        print("Predicted emotion:", predicted_emotion)
+    return embeddings
