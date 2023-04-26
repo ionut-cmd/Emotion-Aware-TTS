@@ -9,15 +9,6 @@ On the other hand, pitch spectrograms extracted by continuous wavelet transform 
 
 ![](./img/model.png)
 
-# Updates
-
-- 2021/7/8: Release the checkpoint and audio samples of a multi-speaker English TTS model trained on LibriTTS
-- 2021/2/26: Support English and Mandarin TTS
-- 2021/2/26: Support multi-speaker TTS (AISHELL-3 and LibriTTS)
-- 2021/2/26: Support MelGAN and HiFi-GAN vocoder
-
-# Quickstart
-
 ## Dependencies
 
 You can install the Python dependencies with
@@ -30,18 +21,19 @@ pip3 install -r requirements.txt
 
 You have to download the [pretrained model](https://drive.google.com/file/d/1_7L2Sxi7m47mfgL-u0l_qEWpqPbTLF1X/view?usp=sharing) and put it in `output/ckpt/EmoV_DB/`.
 
-For English multi-speaker Emotional Aware TTS with RoBERTa embeddings, run
-
-# set multi_emotion to False in model.yaml for synthesizing using bert emotions
+For English multi-speaker Emotional Aware TTS with RoBERTa embeddings,set multi_emotion to True in model.yaml and run
 
 ```
-!python3 synthesize.py --text "Example text" --bert_embed 1 --speaker_id 3  --restore_step 900000 --mode single -p config/EmoV_DB/preprocess.yaml -m config/EmoV_DB/model.yaml -t config/EmoV_DB/train.yaml
+!python3 synthesize.py --text "Example text" --bert_embed 1 --speaker_id SPEAKER_ID  --restore_step 900000 --mode single -p config/EmoV_DB/preprocess.yaml -m config/EmoV_DB/model.yaml -t config/EmoV_DB/train.yaml
+```
+
+For English multi-speaker Emotional Aware TTS with multi-emotions, set multi_emotion to True in model.yaml and run
+
+```
+!python3 synthesize.py --text "Example text" --emotion_id EMOTION_ID --speaker_id SPEAKER_ID  --restore_step 900000 --mode single -p config/EmoV_DB/preprocess.yaml -m config/EmoV_DB/model.yaml -t config/EmoV_DB/train.yaml
 ```
 
 The generated utterances will be put in `output/result/`.
-
-Here is an example of synthesized mel-spectrogram of the sentence "Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition", with the English single-speaker TTS model.  
-![](./img/synthesized_melspectrogram.png)
 
 ## Controllability
 
@@ -49,7 +41,7 @@ The pitch/volume/speaking rate of the synthesized utterances can be controlled b
 For example, one can increase the speaking rate by 20 % and decrease the volume by 20 % by
 
 ```
-python3 synthesize.py --text "YOUR_DESIRED_TEXT" --restore_step 900000 --mode single -p config/EmoV_DB/preprocess.yaml -m config/LJSpeech/model.yaml -t config/LJSpeech/train.yaml --duration_control 0.8 --energy_control 0.8
+!python3 synthesize.py --text "Example text" --emotion_id EMOTION_ID --speaker_id SPEAKER_ID  --restore_step 900000 --mode single -p config/EmoV_DB/preprocess.yaml -m config/EmoV_DB/model.yaml -t config/EmoV_DB/train.yaml --duration_control 0.8 --energy_control 0.8
 ```
 
 # Training
@@ -76,6 +68,7 @@ Please inform me if you find any mistakes in this repo, or any useful tips to tr
 # References
 
 - [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), Y. Ren, _et al_.
+- [Text aware Emotional Text-to-speech with BERT](https://www.isca-speech.org/archive/pdfs/interspeech_2022/mukherjee22_interspeech.pdf)
 - [xcmyz's FastSpeech implementation](https://github.com/xcmyz/FastSpeech)
 - [TensorSpeech's FastSpeech 2 implementation](https://github.com/TensorSpeech/TensorflowTTS)
 - [rishikksh20's FastSpeech 2 implementation](https://github.com/rishikksh20/FastSpeech2)

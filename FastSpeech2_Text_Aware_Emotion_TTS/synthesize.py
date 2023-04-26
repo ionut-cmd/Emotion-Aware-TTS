@@ -21,7 +21,7 @@ from text import text_to_sequence
 
 from transformers import RobertaTokenizerFast, AutoModel, AutoModelForSequenceClassification
 
-ro_model = "/content/FastSpeech2_Text_Aware_Emotion_TTS/robert_emotion_fyp"
+ro_model = "/content/FastSpeech2_Text_Aware_Emotion_TTS/roberta_pretrained"
 roberta_tokenizer = RobertaTokenizerFast.from_pretrained('roberta-base')
 roberta_model = AutoModelForSequenceClassification.from_pretrained(ro_model)
 
@@ -216,10 +216,10 @@ if __name__ == "__main__":
 
     # Get model
     model = get_model(args, configs, device, train=False)
-
+    
     # Load vocoder
     vocoder = get_vocoder(model_config, device)
-
+    
     # Preprocess texts
     if args.mode == "batch":
         # Get dataset
@@ -233,9 +233,11 @@ if __name__ == "__main__":
 
         if np.array([args.bert_embed]) == 0:
           emotions = np.array([args.emotion_id])
+          # print(f'FS2 emotions: {emotions}')
         else:
           emotions = get_roberta_emotion_embeddings(roberta_tokenizer, roberta_model, args.text)
-        
+          emotions = torch.argmax(emotions, dim=1).cpu().numpy()
+          # print(f'RoBERTa emotions {emotions}')
         ids = raw_texts = [args.text[:100]]
         speakers = np.array([args.speaker_id])
         

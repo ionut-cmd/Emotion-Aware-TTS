@@ -23,7 +23,7 @@ To run the experiments and use the Emotion-Aware Speech Generation system, follo
 
 ## Acknowledgements
 
-This project is based on the [ming024/FastSpeech2](https://github.com/ming024/FastSpeech2.git) for text-to-speech synthesis. We would like to thank the original author for their work, which served as a starting point for this project.
+This project is based on the [ming024/FastSpeech2](https://github.com/ming024/FastSpeech2.git) for text-to-speech synthesis. I would like to thank the original author for their work, which served as a starting point for this project.
 
 ## License
 

@@ -73,9 +73,7 @@ def to_device(data, device):
         (ids, raw_texts, speakers, texts, src_lens, max_src_len, emotions) = data
 
         speakers = torch.from_numpy(speakers).long().to(device)
-        # emotions = torch.from_numpy(emotions).long().to(device)
-        emotions = emotions
-        # print(f'emotions from tools: ---- {emotions}')
+        emotions = torch.from_numpy(emotions).long().to(device)
         texts = torch.from_numpy(texts).long().to(device)
         src_lens = torch.from_numpy(src_lens).to(device)
 
