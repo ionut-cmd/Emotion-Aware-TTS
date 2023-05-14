@@ -46,7 +46,7 @@ For example, one can increase the speaking rate by 20 % and decrease the volume 
 
 # Training
 
-For easy access you can [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ionut-cmd/Emotion-Aware-TTS/blob/main/FastSpeech2_Text_Aware_Emotion_TTS/FS2_setup_EmoV.ipynb) and follow the instructions in the jupiter notebook file
+For easy access you can [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14ijl6OoW73ev9oV5YAiny-XIGIcwpMaV?usp=sharing) and follow the instructions in the jupiter notebook file
 
 ## Datasets
 
