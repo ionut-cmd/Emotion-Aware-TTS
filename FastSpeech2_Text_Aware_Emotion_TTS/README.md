@@ -19,7 +19,9 @@ pip3 install -r requirements.txt
 
 ## Inference
 
-You have to download the [pretrained model](https://drive.google.com/file/d/1_7L2Sxi7m47mfgL-u0l_qEWpqPbTLF1X/view?usp=sharing) and put it in `output/ckpt/EmoV_DB/`.
+You have to download the [pretrained FastSpeech2 model](https://drive.google.com/file/d/1_7L2Sxi7m47mfgL-u0l_qEWpqPbTLF1X/view?usp=sharing) and add it to `output/ckpt/EmoV_DB/`.
+
+Also download the [pretrained RoBERTa model](https://drive.google.com/drive/folders/1yC8pQAcA4yb0vpXutx6XcpFn8nJm19k_?usp=sharing) and add it to `roberta_pretrained/`.
 
 For English multi-speaker Emotional Aware TTS with RoBERTa embeddings,set multi_emotion to True in model.yaml and run
 
