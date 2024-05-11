@@ -80,13 +80,9 @@ Please inform me if you find any mistakes in this repo, or any useful tips to tr
 # Citation
 
 ```
-@INPROCEEDINGS{chien2021investigating,
-  author={Chien, Chung-Ming and Lin, Jheng-Hao and Huang, Chien-yu and Hsu, Po-chun and Lee, Hung-yi},
-  booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  title={Investigating on Incorporating Pretrained and Learnable Speaker Representations for Multi-Speaker Multi-Style Text-to-Speech},
-  year={2021},
-  volume={},
-  number={},
-  pages={8588-8592},
-  doi={10.1109/ICASSP39728.2021.9413880}}
+@INPROCEEDINGS{asonam2024,
+ author={Suparna De and Ionut Bostan and Nishanth Sastry},
+ booktitle={The 16th International Conference on Advances in Social Networks Analysis and Mining -ASONAM-2024 [under review]},
+ title={Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis},
+ year={2024}}
 ```
