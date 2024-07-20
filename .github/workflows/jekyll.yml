@@ -41,9 +41,8 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Update Gemfile.lock for Linux
         run: |
+          bundle config set --local path 'vendor/bundle'
           bundle lock --add-platform x86_64-linux
-      - name: Install dependencies
-        run: |
           bundle install
       - name: Setup Pages
         id: pages
