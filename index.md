@@ -52,7 +52,7 @@ real-time accessibility applications.
 
 ## Demo
 
-Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Below, you can listen to audio samples from different TTS models.
+Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Below, you can listen to audiohttps://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS samples from different TTS models.
 
 <table>
   <tr>
@@ -65,19 +65,19 @@ Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Be
     <td>Bikes are fun to ride</td>
     <td>
       <audio controls>
-        <source src="/samples/fastspeech/Bikes_are_fun_to_ride__gen.wav" type="audio/mpeg">
+        <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/fastspeech/Bikes_are_fun_to_ride__gen.wav" type="audio/mpeg">
         Your browser does not support the audio tag.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="/samples/temotts/Bikes_are_fun_to_ride__gen.wav" type="audio/mpeg">
+        <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/temotts/Bikes_are_fun_to_ride__gen.wav" type="audio/mpeg">
         Your browser does not support the audio tag.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="/samples/ours/Bikes are fun to ride..wav" type="audio/mpeg">
+        <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/ours/Bikes are fun to ride..wav" type="audio/mpeg">
         Your browser does not support the audio tag.
       </audio>
     </td>
@@ -86,19 +86,19 @@ Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Be
         <td>Dreams can come true</td>
         <td>
         <audio controls>
-            <source src="/samples/fastspeech/Dreams_can_come_true__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/fastspeech/Dreams_can_come_true__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/temotts/Dreams_can_come_true__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/temotts/Dreams_can_come_true__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/ours/Dreams can come true.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/ours/Dreams can come true.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
@@ -107,19 +107,19 @@ Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Be
         <td>Friends make life more fun</td>
         <td>
         <audio controls>
-            <source src="/samples/fastspeech/Friends_make_life_more_fun__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/fastspeech/Friends_make_life_more_fun__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/temotts/Friends_make_life_more_fun__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/temotts/Friends_make_life_more_fun__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/ours/Friends make life more fun.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/ours/Friends make life more fun.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
@@ -139,19 +139,19 @@ Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Be
     <td>Blowing out birthday candles makes me feel special!</td>
     <td>
       <audio controls>
-        <source src="/samples/fastspeech/Blowing_out_birthday_candles_makes_me_feel_special__gen.wav" type="audio/mpeg">
+        <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/fastspeech/Blowing_out_birthday_candles_makes_me_feel_special__gen.wav" type="audio/mpeg">
         Your browser does not support the audio tag.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="/samples/temotts/Blowing_out_birthday_candles_makes_me_feel_special__gen.wav" type="audio/mpeg">
+        <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/temotts/Blowing_out_birthday_candles_makes_me_feel_special__gen.wav" type="audio/mpeg">
         Your browser does not support the audio tag.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="/samples/ours/Blowing out birthday candles makes me feel special!.wav" type="audio/mpeg">
+        <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/ours/Blowing out birthday candles makes me feel special!.wav" type="audio/mpeg">
         Your browser does not support the audio tag.
       </audio>
     </td>
@@ -160,19 +160,19 @@ Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Be
         <td>Her heart felt heavy with sorrow</td>
         <td>
         <audio controls>
-            <source src="/samples/fastspeech/Her_heart_felt_heavy_with_sorrow__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/fastspeech/Her_heart_felt_heavy_with_sorrow__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/temotts/Her_heart_felt_heavy_with_sorrow__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/temotts/Her_heart_felt_heavy_with_sorrow__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/ours/Her heart felt heavy with sorrow.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/ours/Her heart felt heavy with sorrow.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
@@ -181,19 +181,19 @@ Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Be
         <td>I am feeling sad</td>
         <td>
         <audio controls>
-            <source src="/samples/fastspeech/I_am_feeling_sad__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/fastspeech/I_am_feeling_sad__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/temotts/I_am_feeling_sad__gen.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/temotts/I_am_feeling_sad__gen.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
         <td>
         <audio controls>
-            <source src="/samples/ours/I am feeling sad.wav" type="audio/mpeg">
+            <source src="https://github.com/ionut-cmd/Emotion-Aware-TTS/tree/main/FastSpeech2_Text_Aware_Emotion_TTS/samples/ours/I am feeling sad.wav" type="audio/mpeg">
             Your browser does not support the audio tag.
         </audio>
         </td>
