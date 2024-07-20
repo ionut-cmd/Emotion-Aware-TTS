@@ -1,0 +1,12 @@
+title: "Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text"
+description: >-
+  Emotion-Aware TTS
+baseurl: ""
+url: "https://ionut-cmd.github.io"
+theme: minima
+exclude:
+  - FastSpeech2_Text_Aware_Emotion_TTS
+  - FYP_Notebooks
+  - Transformers_for_NLP
+  - Transformers_for_NLP
+  - Utils

@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Emotion-Aware TTS | Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Emotion-Aware TTS" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Emotion-Aware TTS" />
+<meta property="og:description" content="Emotion-Aware TTS" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Emotion-Aware TTS" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Emotion-Aware TTS","headline":"Emotion-Aware TTS","name":"Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text","url":"http://localhost:4000/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Making Social Platforms Accessible:
+Emotion-Aware Speech Generation with Integrated Text
+" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Making Social Platforms Accessible:
+Emotion-Aware Speech Generation with Integrated Text
+</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/">Emotion-Aware TTS</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <h2 id="authors">Authors</h2>
+
+<p><strong>Suparna De</strong><br />
+Email: <a href="mailto:s.de@surrey.ac.uk">s.de@surrey.ac.uk</a></p>
+
+<p><strong>Ionut Bostan</strong><br />
+Email: <a href="mailto:ionut@nquiringminds.com">ionut@nquiringminds.com</a></p>
+
+<p><strong>Nishanth Sastry</strong><br />
+Email: <a href="mailto:n.sastry@surrey.ac.uk">n.sastry@surrey.ac.uk</a></p>
+
+<hr />
+
+<h2 id="abstract">Abstract</h2>
+
+<p>Recent studies have outlined the accessibility challenges that blind and visually impaired people face in interacting
+with social networks, with monotone text-to-speech (TTS) screen
+readers and audio narration of visual elements such as emojis.
+Emotional speech generation traditionally relies on human input
+of the expected emotion together with the text to synthesise,
+with additional challenges around data simplification (causing
+information loss) and duration inaccuracy, leading to lack of
+expressive emotional rendering. In real-life communications, the
+duration of phonemes can vary since the same sentence might
+be spoken in a variety of ways depending on the speakers’
+emotional states or accents (referred to as the one-to-many
+problem of text to speech generation). As a result, an advanced
+voice synthesis system is required to account for this unpredictability. We propose an end-to-end context-aware Text-toSpeech (TTS) synthesis system that derives the conveyed emotion
+from text input and synthesises audio that focuses on emotions
+and speaker features for natural and expressive speech, integrating advanced natural language processing (NLP) and speech
+synthesis techniques for real-time applications. The proposed
+system has two core components: an emotion classifier and a
+speech synthesiser. The emotion classifier utilises a classification
+model to extract sentiment information from the input text.
+Leveraging a non-autoregressive neural TTS model, the speech
+synthesiser generates Mel-spectrograms by incorporating speaker
+and emotion embeddings derived from the classifier’s output. We
+employ a Generative Adversarial Network (GAN)-based vocoder
+to convert the Mel-spectrograms into audible waveforms. One of
+the key contributions lies in effectively incorporating emotional
+characteristics into TTS synthesis. Our system also showcases
+competitive inference time performance when benchmarked
+against the state-of-the-art TTS models, making it suitable for
+real-time accessibility applications.</p>
+
+<hr />
+
+<h2 id="demo">Demo</h2>
+
+<p>Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Below, you can listen to audio samples from different TTS models.</p>
+
+<table>
+  <tr>
+    <th>Description</th>
+    <th>FastSpeech 2[1]</th>
+    <th>TEMOTTS[2]</th>
+    <th>Our Model</th>
+  </tr>
+  <tr>
+    <td>Bikes are fun to ride</td>
+    <td>
+      <audio controls="">
+        <source src="/samples/fastspeech/Bikes_are_fun_to_ride__gen.wav" type="audio/mpeg" />
+        Your browser does not support the audio tag.
+      </audio>
+    </td>
+    <td>
+      <audio controls="">
+        <source src="/samples/temotts/Bikes_are_fun_to_ride__gen.wav" type="audio/mpeg" />
+        Your browser does not support the audio tag.
+      </audio>
+    </td>
+    <td>
+      <audio controls="">
+        <source src="/samples/ours/Bikes are fun to ride..wav" type="audio/mpeg" />
+        Your browser does not support the audio tag.
+      </audio>
+    </td>
+    </tr>
+    <tr>
+        <td>Dreams can come true</td>
+        <td>
+        <audio controls="">
+            <source src="/samples/fastspeech/Dreams_can_come_true__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/temotts/Dreams_can_come_true__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/ours/Dreams can come true.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+    </tr>
+     <tr>
+        <td>Friends make life more fun</td>
+        <td>
+        <audio controls="">
+            <source src="/samples/fastspeech/Friends_make_life_more_fun__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/temotts/Friends_make_life_more_fun__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/ours/Friends make life more fun.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+    </tr>
+</table>
+
+<h3 id="emotion-aware-samples">Emotion Aware Samples</h3>
+
+<table>
+  <tr>
+    <th>Description</th>
+    <th>FastSpeech 2[1]</th>
+    <th>TEMOTTS[2]</th>
+    <th>Our Model</th>
+  </tr>
+  <tr>
+    <td>Blowing out birthday candles makes me feel special!</td>
+    <td>
+      <audio controls="">
+        <source src="/samples/fastspeech/Blowing_out_birthday_candles_makes_me_feel_special__gen.wav" type="audio/mpeg" />
+        Your browser does not support the audio tag.
+      </audio>
+    </td>
+    <td>
+      <audio controls="">
+        <source src="/samples/temotts/Blowing_out_birthday_candles_makes_me_feel_special__gen.wav" type="audio/mpeg" />
+        Your browser does not support the audio tag.
+      </audio>
+    </td>
+    <td>
+      <audio controls="">
+        <source src="/samples/ours/Blowing out birthday candles makes me feel special!.wav" type="audio/mpeg" />
+        Your browser does not support the audio tag.
+      </audio>
+    </td>
+    </tr>
+    <tr>
+        <td>Her heart felt heavy with sorrow</td>
+        <td>
+        <audio controls="">
+            <source src="/samples/fastspeech/Her_heart_felt_heavy_with_sorrow__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/temotts/Her_heart_felt_heavy_with_sorrow__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/ours/Her heart felt heavy with sorrow.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+    </tr>
+     <tr>
+        <td>I am feeling sad</td>
+        <td>
+        <audio controls="">
+            <source src="/samples/fastspeech/I_am_feeling_sad__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/temotts/I_am_feeling_sad__gen.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+        <td>
+        <audio controls="">
+            <source src="/samples/ours/I am feeling sad.wav" type="audio/mpeg" />
+            Your browser does not support the audio tag.
+        </audio>
+        </td>
+    </tr>
+</table>
+
+<h1 id="references">References</h1>
+
+<hr />
+
+<ol>
+  <li>Yi Ren, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu, “Fastspeech 2: Fast and high-quality end-to-end text to speech,” in International Conference on Learning Representations, 2021.</li>
+  <li>Shreeram Suresh Chandra, Zongyang Du, Berrak Sisman, “TEMOTTS: Text-aware Emotional Text-to-Speech with no labels”, Speech &amp; Machine Learning Lab, The University of Texas at Dallas, TX, USA, 2024.</li>
+</ol>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Making Social Platforms Accessible:
+Emotion-Aware Speech Generation with Integrated Text
+</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Making Social Platforms Accessible:
+Emotion-Aware Speech Generation with Integrated Text
+</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Emotion-Aware TTS</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
