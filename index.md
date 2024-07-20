@@ -52,7 +52,7 @@ real-time accessibility applications.
 
 ## Demo
 
-Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Below, you can listen to audiohttps://raw.githubusercontent.com/ionut-cmd/Emotion-Aware-TTS/main/FastSpeech2_Text_Aware_Emotion_TTS samples from different TTS models.
+Welcome to the demonstration page of our Emotion-Aware Text-to-Speech Models. Below, you can listen to audio samples from different TTS models.
 
 <table>
   <tr>
