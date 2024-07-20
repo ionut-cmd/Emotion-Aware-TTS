@@ -9,6 +9,16 @@ On the other hand, pitch spectrograms extracted by continuous wavelet transform 
 
 ![](./img/model.png)
 
+## Samples
+
+Please visit the [GitHub page](https://ionut-cmd.github.io/Emotion-Aware-TTS/) to view comparative samples.
+
+Or generate new ones on HuggingFace
+
+<a href="https://huggingface.co/spaces/Ionut-Bostan/Emotion_Aware_TTS">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="50" height="auto"/>
+</a>
+
 ## Dependencies
 
 You can install the Python dependencies with
