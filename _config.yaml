@@ -10,3 +10,4 @@ exclude:
   - Transformers_for_NLP
   - Transformers_for_NLP
   - Utils
+  - vendor
