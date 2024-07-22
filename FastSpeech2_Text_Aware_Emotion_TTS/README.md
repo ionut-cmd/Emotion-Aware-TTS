@@ -92,7 +92,9 @@ Please inform me if you find any mistakes in this repo, or any useful tips to tr
 ```
 @INPROCEEDINGS{asonam2024,
  author={Suparna De and Ionut Bostan and Nishanth Sastry},
- booktitle={The 16th International Conference on Advances in Social Networks Analysis and Mining -ASONAM-2024 [under review]},
+ booktitle={The 16th International Conference on Advances in Social Networks Analysis and Mining -ASONAM-2024},
  title={Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis},
- year={2024}}
+ year={2024}},
+ address={Calabria, Italy},
+ date={September 2-5, 2024}
 ```

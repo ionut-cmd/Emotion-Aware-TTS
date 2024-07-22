@@ -48,6 +48,8 @@ competitive inference time performance when benchmarked
 against the state-of-the-art TTS models, making it suitable for
 real-time accessibility applications.
 
+This work has been accepted for presentation at the 16th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2024), which will be held from September 2-5, 2024, in Calabria, Italy.
+
 ---
 
 ## Demo
